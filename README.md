@@ -1,7 +1,7 @@
 # The Pillars of Game Design and Development
 ### by Carles Homs
 
-“I am [Carles Homs](https://www.linkedin.com/in/ch0m5/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
+"I am [Carles Homs](https://www.linkedin.com/in/ch0m5/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu)."
 
 ## What is a Game Pillar?
 A *pillar* is a term used to define an element that serves as a supporting, integral part of something, so we can assume a Game Pillar is a fundamental part of a Game that works as a **foundation** for its design.
@@ -29,7 +29,7 @@ A Game Pillar works as a **guideline** to follow throughout the entire design pr
 
 Depending on what pillars are stablished, they also define how the development team must work, communicate, and cooperate to make sure the different game elements function in **harmony** even if the team is separated in different sectors and aspects of the game.
 
-On a production perspective, having clear Game Pillars define all concepts that must be settled during **pre-production** and consider every time a new design idea arises. Having strong Game Pillars that are handled during the prototyping stages secure that the game has a strong, solid base which can be built upon, adding details and implementing features with the available budget with clear goals in mind.
+On a production perspective, having clear Game Pillars help define all concepts that must be settled during **pre-production** and must be considered every time a new design idea arises. Having strong Game Pillars that are used as reference during the prototyping stages secure that the game has a solid base which can be built upon, adding details and implementing features in the production phase with clear goals in mind so budget and time isn't wasted.
 
 ## Existent Examples
 
@@ -49,13 +49,56 @@ If a Game Pillar does not accomplish this goal, it’s not a good base or refere
 
 ## My approach
 
-As a personal exercise to understand the concept, I decided to create my own Game Pillars based on the information I’ve gathered during this research about Game Design, Game Development, and Work Procedures. With this Pillars I try to set the most important bases of general game design should be applied to any game.
+As a personal exercise to understand the concept, I decided to create my own Game Pillars based on the information I’ve gathered during this research. With these pillars I try to set the most important bases of general game design that I believe should be applied to any game.
 
 I made them to tackle three main aspects: The core aspects of game design that make it a **fun and engaging experience**, the **mechanisms and tools** that can be exploited to implement the design choices flawlessly, and the **work procedures** that must be followed so that the entire team is coordinated and with the same **goals** in mind.
 
 ### 1. Create a unique experience
+* Focus on what emotions you want to transmit, how must the player **feel** while playing the game.
+* While brainstorming, think of one idea or feature that you game would have that **no other does**.
+* Establish the most important features of the game and a **creative direction** to follow.
+* The ideas must **resonate** with you, they must sound fun. Check if they still feel like expected from a **practical standpoint** by prototyping and testing the idea.
 
-Text
+### 2. Define your target audience
+* Evaluate what demographic is your game targeted to. **Who** will play your game?
+* What is he **familiar** with? What needs to be **explained**? What is assumed to be **already known**?
+* What **skill level should** the game be prepared for? It must be **challenging**, without becoming frustrating nor boring (flow).
+* What theme and aesthetics are best to **appeal** the player's interest? To make your mechanics intuitive and **easy to interiorize**?
+
+### 3. The core loop must be inherently fun
+* The series of activities that will be repeated throught the game must be **fun and satisfying to perform**.
+* **Create prototypes** around design ideas and **test them** to see if they work on a **practical level**.
+* **Iterate** prototypes over and over until the loop is **solid and polished** so the experience feels like the desired one.
+* Each iteration must **answer** a fundamental question and evaluate the combination of all currently present elements.
+* Great short guideline: The should be **Easy to learn and FUN to master**.
+
+### 4. Communicate with your team
+* The core elements of the game must be **understood and acknowledged** by the team to hold a common creative ground.
+* Use the GDD to define the **core experience** of the game, **desired goals**, and any important specifications that feel relevant to the game's design. The document should be short and check only the most essential points, be a design reference for the team.
+* **Share feedback** constantly, even in informal environments, the team must work at unison.
+* **All game elements must work for the same goals.** They must all coordinate to deliver the wanted experience, even if they are managed by different people on the team.
+
+### 5. Make the game Coherent and Consistent
+* A game is **coherent** when its different elements show a **logical consistency** in their nature and behavior when related to each other.
+* Relationship between elements must result in potential combinations that the player can **explore and experiment** with.
+* Take into account what the player **expects** and his **assumptions** based on common sense and previous experiences.
+* Whatever rules your game follows, they must be **consistent** so the player can learn from them and formulate **strategies**.
+
+### 6. Guide the player: Make it intuitive without being obvious
+* **Guide** the player through the experience, but **don't hold its hand**, let him explore his options without getting lost.
+* Make elements feel **intuitive and easy to learn**. Use **aesthetic and thematic as a channel to teach mechanics**.
+* Give **feedback** to the player for his actions, **reinforce** wanted behaviors and **discourage** unwanted ones with care, **you don't want to railroad the player** but certainly limit the options to the desired game experience.
+* Provide a **general goal** for the game with **smaller short-term goals** to keep him **engaged and satisfied**.
+* Give the player **meaningful rewards** proportionate to the **difficulty** of the challenges he overcomes.
+* **Don't overload the player.** Keep things **simple**, not **too many outputs** at the same time, and exploit the different **channels** available (visuals, gameplay, sound) to pass your message through **smoothly**.
+
+### 7. Let the player play
+* Let him **explore, decide, and learn from his choices**.
+* Give him tools and an environment to experiment with, which can result in **emergent gameplay**.
+* Use **gameplay as a channel** to transmit the experience. Include the player's actions into the context of the situation so he feels as **his decisions have meaning**, affecting and shaping the world around him.
+* Whenever a new element appears for the player to learn, create a **challenge** to test his abilities and knowledge about it.
+* **Don't take control away from the player unless it's necessary to the experience**, it can easily become frustrating.
+
 
 
 FORMATE REFERENCE:
