@@ -12,13 +12,15 @@ For [Max Pears]( https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design
 
 While [Ted Price](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php), [Insomniac Games](https://insomniac.games/) CEO, talks about them with a perspective that leans towards a more general **design and development process** rather than specific features that make a game unique, like focusing on what your game has that others don't and defining your target audience to make a mental model of your player.
 
+### Core Game Elements VS Core Design Guidelines
+
 The first approach is more specific to a certain game, as it revolves around the core elements that will define **the experience the game offers**, while the second one is more general and can be applied to a game regardless of its content. Therefore, we can assume that the 1st perspective sees Game Pillars as game-specific core elements while the 2nd one percieves them as general rulings that mark the foundation of good game development and design.
 
 In this article we will focus on the 2nd perspective, which visualizes a Game Pillar as a general solid base to work on, a **rule of thumb** to follow when designing and producing games on a very raw level. This means that a pillar can be applied to **any** game on production, no matter the specifics of the game like genre, mechanics or thematic, as the pillar covers core aspects present in all games alike.
 
-The book [The Art of Game Design](https://www.sciencedirect.com/book/9780123694966/the-art-of-game-design) by [Jesse Schell](https://www.jesseschell.com/) seems to share this perspective of Game Pillars, but he uses the terms *lenses*, as for him each concept is a different way to look at the design of your game (more than a 100!) and the combination of all of them create an ideal general guideline to follow for any game design.
+The book [The Art of Game Design](https://www.sciencedirect.com/book/9780123694966/the-art-of-game-design) by [Jesse Schell](https://www.jesseschell.com/) seems to share this perspective of Game Pillars, but he uses the terms ***lenses***, as for him each concept is a different way to look at the design of your game (more than a 100!) and the combination of all of them create an ideal general guideline to follow for any game design.
 
-That said, the 1st perspective is a perfectly valid one and is a great procedure to follow: defining what core mechanics or elements will define your game will help you steer which direction your creative process will go to and quickly identify which ideas add to the desired goals for the game. However, the 2nd one allows you to create your own **design handbook** which you can apply to any game you want to create, making it more polivalent. Something similar to the [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4), but applied to game development.
+That said, the 1st perspective is a perfectly valid one and is a great procedure to follow: defining what core mechanics or elements will define your game will help you steer which direction your **creative process** will go to and quickly identify which ideas add to the desired goals for the game. However, the 2nd one allows you to create your own **design handbook** which you can apply to any game you want to create, making it more polivalent. Something similar to the [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4), but applied to game development.
 
 I still highly recommend to use **both** to get the best of your game and development process.
 
@@ -49,7 +51,7 @@ If a Game Pillar does not accomplish this goal, it’s not a good base or refere
 
 As a personal exercise to understand the concept, I decided to create my own Game Pillars based on the information I’ve gathered during this research about Game Design, Game Development, and Work Procedures. With this Pillars I try to set the most important bases of general game design should be applied to any game.
 
-I made them to tackle three main aspects: The core aspects of game design that make it a fun and engaging experience, the mechanisms and tools that can be exploited to implement the design choices flawlessly, and the work procedures that must be followed so that the entire team is coordinated and with the same goals.
+I made them to tackle three main aspects: The core aspects of game design that make it a **fun and engaging experience**, the **mechanisms and tools** that can be exploited to implement the design choices flawlessly, and the **work procedures** that must be followed so that the entire team is coordinated and with the same **goals** in mind.
 
 ### 1. Create a unique experience
 
