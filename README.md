@@ -14,8 +14,15 @@ While [Ted Price](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_mak
 
 In this article we will focus on the 2nd perspective, which visualizes a Game Pillar as a general solid base to work on, a rule of thumb to follow when designing and producing games on a very raw level. This means that a pillar can be applied to **any** game on production, no matter the specifics of the game like genre, mechanics or thematic, as the pillar covers core aspects present in all games alike.
 
-## Why do we need then is a Game Pillar?
-Because of reasons
+## Why do we need them?
+A Game Pillar works as a guideline to follow throughout the entire design process to see which ideas add to the design goals of the game and which don’t, working as a filter to secure the quality of the game.
+
+Depending on what pillars are stablished, they also define how the development team must work, communicate, and cooperate to make sure the different game elements function in harmony even if the team is separated in different sectors and aspects of the game.
+
+On a production perspective, having clear Game Pillars define all concepts that must be settled during pre-production and consider every time a new design idea arises. Having strong Game Pillars that are handled during the prototyping stages secure that the game has a strong, solid base which can be built upon, adding details and implementing features with the available budget with clear goals in mind.
+
+## Existent Game Pillars
+
 
 FORMATE REFERENCE:
 
