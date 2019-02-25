@@ -1,6 +1,13 @@
-# Andro Dunos Tribute by Crispy Crunch
+# The Pillars of Game Design and Development
+### by Carles Homs
 
-Andro Dunos is a side scrolling shoot 'em up Japanese arcade game developed by Visco Games and published in the Neo-Geo by SNK Corporation (Shin Nihon Kikaku) in 1992. In Andro Dunos the player controls a spaceship that fires 4 different kind of projectiles which he/she can upgrade by defeating enemy ships and gathering power ups. Each type of shot also offers a different charged attack, which allows the player to deal with big numbers of enemies in very though situations. The main goal of the game is to shoot your way through several levels and defeat each final boss.
+“I am [Carles Homs](https://www.linkedin.com/in/ch0m5/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
+
+## What is a Game Pillar?
+A pillar is a solid base to work from, a rule of thumb to follow when designing and producing games that creates a guideline on a very raw level. This means that a pillar can be applied to **any** game on production and used to set certain workflow procedures and discard new ideas during development that do not meet certain standards.
+
+
+FORMATE REFERENCE:
 
 Release Link:
 [Andro Dunos v.1.0](https://github.com/ch0m5/Project_1/releases/tag/v.1.0)
