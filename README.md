@@ -12,10 +12,16 @@ For [Max Pears]( https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design
 
 While [Ted Price](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php), [Insomniac Games](https://insomniac.games/) CEO, talks about them with a perspective that leans towards the **development process** rather than specific features that make a game unique.
 
+The first approach is more specific to a certain game, as it revolves around the core elements that will define **the experience the game offers**, while the second one is more general and can be applied to a game regardless of its content. Therefore, we can assume that the 1st perspective sees Game Pillars as game-specific core elements while the 2nd one percieves them as general rulings that mark the foundation of good game development and design.
+
 In this article we will focus on the 2nd perspective, which visualizes a Game Pillar as a general solid base to work on, a **rule of thumb** to follow when designing and producing games on a very raw level. This means that a pillar can be applied to **any** game on production, no matter the specifics of the game like genre, mechanics or thematic, as the pillar covers core aspects present in all games alike.
 
+That said, the 1st perspective is a perfectly valid one and is a great procedure to follow: defining what core mechanics or elements will define your game will help you steer which direction your creative process will go to and quickly identify which ideas add to the desired goals for the game. However, the 2nd one allows you to create your own **design handbook** which you can apply to any game you want to create, making it more polivalent. Something similar to the [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4), but applied to game development.
+
+I still highly recommend to use **both** to get the best of your game and development process.
+
 ## Why do we need them?
-A Game Pillar works as a **guideline** to follow throughout the entire design process to see which ideas add to the design goals of the game and which don’t, working as a **filter** to secure the quality of the game.
+A Game Pillar works as a **guideline** to follow throughout the entire design process to see which ideas add to the design goals of the game and which don’t, working as a **filter** to secure the quality of the game and making sure that all new introduced elements add to the desired experience.
 
 Depending on what pillars are stablished, they also define how the development team must work, communicate, and cooperate to make sure the different game elements function in **harmony** even if the team is separated in different sectors and aspects of the game.
 
