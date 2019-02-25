@@ -21,15 +21,22 @@ Depending on what pillars are stablished, they also define how the development t
 
 On a production perspective, having clear Game Pillars define all concepts that must be settled during **pre-production** and consider every time a new design idea arises. Having strong Game Pillars that are handled during the prototyping stages secure that the game has a strong, solid base which can be built upon, adding details and implementing features with the available budget with clear goals in mind.
 
-##Existent Game Pillars
+## Existent Game Pillars
 
 Companies create their own Game Pillars to follow and make sure that the game never deviates of this core elements of design that define the experience.
 
-[Blizzard’s Eight Core Values](http://us.blizzard.com/en-us/company/about/mission.html) could be considered their 8 Game Pillars: Gameplay First, Commit to Quality, Play Nice & Play Fair, Embrace Your Inner Geek, etc… All these guidelines mark the way Blizzard employees work, make decisions and design their games
+[Blizzard’s Eight Core Values](http://us.blizzard.com/en-us/company/about/mission.html) could be considered their 8 Game Pillars: Gameplay First, Commit to Quality, Play Nice & Play Fair, Embrace Your Inner Geek, etc… All these guidelines mark the way Blizzard employees work, make decisions and design their games.
 
 On the other hand, [Bungie](https://www.destinypedia.com/Seven_Pillars_of_Design) created their own guidelines to create **Destiny**: A World Players Want to Be In, A Bunch of Fun Things to Do, Rewards Players Care About, etc…
 
 While Blizzard defines broad guidelines that define the **design decisions** and **development procedures** of their workers, Bungie focuses primarily on the **player experience** while playing the game, showing that different companies create their **own rules** to follow while making their games.
+
+## Good and Bad Game Pillars
+
+A good Game Pillar must define a concept that will help to guide and shape the experience that the game wants to transmit, working as a point of reference. This concept can be directed to both game elements and working methodologies to design and implement them.
+
+If a Game Pillar does not accomplish this goal, it’s not a good base or reference to develop a game. For example, I think that [Sergio Rodrigo’s Pillars of Game Development](http://srodrigo.me/the-4-pillars-of-game-development/) tackles concepts that are way too broad: Design, Art, Programming, and Music. They are basic concepts that are too vague and even obvious to work as a personal frame of reference.
+
 
 
 FORMATE REFERENCE:
