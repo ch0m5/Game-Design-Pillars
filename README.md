@@ -21,7 +21,15 @@ Depending on what pillars are stablished, they also define how the development t
 
 On a production perspective, having clear Game Pillars define all concepts that must be settled during **pre-production** and consider every time a new design idea arises. Having strong Game Pillars that are handled during the prototyping stages secure that the game has a strong, solid base which can be built upon, adding details and implementing features with the available budget with clear goals in mind.
 
-## Existent Game Pillars
+##Existent Game Pillars
+
+Companies create their own Game Pillars to follow and make sure that the game never deviates of this core elements of design that define the experience.
+
+[Blizzard’s Eight Core Values](http://us.blizzard.com/en-us/company/about/mission.html) could be considered their 8 Game Pillars: Gameplay First, Commit to Quality, Play Nice & Play Fair, Embrace Your Inner Geek, etc… All these guidelines mark the way Blizzard employees work, make decisions and design their games
+
+On the other hand, [Bungie](https://www.destinypedia.com/Seven_Pillars_of_Design) created their own guidelines to create **Destiny**: A World Players Want to Be In, A Bunch of Fun Things to Do, Rewards Players Care About, etc…
+
+While Blizzard defines broad guidelines that define the **design decisions** and **development procedures** of their workers, Bungie focuses primarily on the **player experience** while playing the game, showing that different companies create their **own rules** to follow while making their games.
 
 
 FORMATE REFERENCE:
