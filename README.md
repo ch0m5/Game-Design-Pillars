@@ -37,6 +37,15 @@ A good Game Pillar must define a concept that will help to guide and shape the e
 
 If a Game Pillar does not accomplish this goal, it’s not a good base or reference to develop a game. For example, I think that [Sergio Rodrigo’s Pillars of Game Development](http://srodrigo.me/the-4-pillars-of-game-development/) tackles concepts that are way too broad: Design, Art, Programming, and Music. They are basic concepts that are too vague and even obvious to work as a personal frame of reference.
 
+## My approach to Game Pillars
+
+As a personal exercise to understand the concept, I decided to create my own Game Pillars based on the information I’ve gathered during this research about Game Design, Game Development, and Work Procedures. With this Pillars I try to set the most important bases of general game design should be applied to any game.
+
+I made them to tackle three main aspects: The core aspects of game design that make it a fun and engaging experience, the mechanisms and tools that can be exploited to implement the design choices flawlessly, and the work procedures that must be followed so that the entire team is coordinated and with the same goals.
+
+### 1. Create a unique experience
+
+Text
 
 
 FORMATE REFERENCE:
