@@ -15,7 +15,7 @@ While [Ted Price](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_mak
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Joel_and_Ellie.jpg" width="645"/>
 </p>
-*The relationship between Joel and Ellie is a core narrative element of the game and the experience in The Last of Us*
+*The relationship between Joel and Ellie is a core narrative element of the game and the experience in The Last of Us.*
 
 ### Core Game Elements VS Core Design Guidelines
 
@@ -24,6 +24,11 @@ The first approach is more specific to a certain game, as it revolves around the
 In this article we will focus on the 2nd perspective, which visualizes a Game Pillar as a general solid base to work on, a **rule of thumb** to follow when designing and producing games on a very raw level. This means that a pillar can be applied to **any** game on production, no matter the specifics of the game like genre, mechanics or thematic, as the pillar covers core aspects present in all games alike.
 
 The book [The Art of Game Design](https://www.sciencedirect.com/book/9780123694966/the-art-of-game-design) by [Jesse Schell](https://www.jesseschell.com/) seems to share this perspective of Game Pillars, but he uses the terms ***lenses***, as for him each concept is a different way to look at the design of your game (more than a 100!) and the combination of all of them create an ideal general guideline to follow for any game design.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Art_of_Game_Design.jpg" width="645"/>
+</p>
+*Schell's scheme to organize all lenses. A must read for any current or future Game Designer.*
 
 That said, the 1st perspective is a perfectly valid one and is a great procedure to follow: defining what core mechanics or elements will define your game will help you steer which direction your **creative process** will go to and quickly identify which ideas add to the desired goals for the game. However, the 2nd one allows you to create your own **design handbook** which you can apply to any game you want to create, making it more polivalent. Something similar to the [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4), but applied to game development.
 
