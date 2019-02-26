@@ -56,7 +56,7 @@ While Blizzard defines broad guidelines that mark the **design decisions** and *
 </p>
 *Blizzard's Mission Statement has become a symbol of their craftmanship, and their core values are shown on every single game they develop.*
 
-## What Is a Good Game Pillar?
+## What's a good Game Pillar?
 
 A good Game Pillar must define a concept that will help to guide and shape the experience that the game wants to transmit, working as a point of reference. This concept can be directed to both game elements and working methodologies to design and implement them.
 
