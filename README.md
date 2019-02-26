@@ -147,7 +147,7 @@ I made them to tackle three main aspects: The core aspects of game design that m
 
 ## Conclusions and Personal Thoughts
 
-Game Pillars can cover both **specific elements that will be the core of a game's design** and the **general rules to follow when designing and developing any game** so production goes smoothly. Every team or single developer can create his own, it will define his craft, his standards and guidelines, what goals does he want to game to achieve and which experience does he want to +deliver to the player.
+Game Pillars can cover both **specific elements that will be the core of a game's design** and the **general rules to follow when designing and developing any game** so production goes smoothly. Every team or single developer can create his own, it will define his craft, his standards and guidelines, what goals does he want to game to achieve and which experience does he want to deliver to the player.
 
 Having **strong and reliable** Game Pillars will make sure that your ideas and creative direction are **focused** from the very beginning to what you want your game to be. On a professional level, it could save you time and money, as securing the grounds of your game on pre-production via **prototypes and iteration** can avoid problems on the production phase that could **hurt both the budget and the schedule**.
 
