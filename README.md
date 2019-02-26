@@ -112,8 +112,8 @@ src="https://www.youtube.com/watch?v=7L8vAGGitr8" frameborder="0" allowfullscree
 </iframe>
 *This video by **Game Maker's Toolkit** explains different concepts beautifully that directly relate to pillars 6 and 7*.
 
-</html>
-</body>
+<html/>
+<body/>
   
 ### 8. Make a Game You're Proud Of
 * Seems obvious, but **making a game that you would enjoy playing** is essential to put the needed work into it. Your hands are an engine, your game a goal, and **passion** your fuel.
