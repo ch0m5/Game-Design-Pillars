@@ -91,7 +91,7 @@ I made them to tackle three main aspects: The core parts of game design that mak
 *Arma 3 is a **Military Simulator** that acknowledges their target audience as players looking for a realistic hardcore military shooter experience. This is reflected in its design, for example in the knowledge and skill level expected from the player.*
 
 ### 3. The Core Loop Must Be Inherently Fun
-* The series of activities that will be repeated throught the game must be **fun and satisfying to perform**.
+* The series of activities that will be repeated throughout the game must be **fun and satisfying to perform**.
 * **Create prototypes** around design ideas and **test them** to see if they work on a **practical level**.
 * **Iterate** prototypes over and over until the loop is **solid and polished** so the experience feels like the desired one.
 * Each iteration must **answer** a fundamental question and evaluate the combination of all currently present elements.
