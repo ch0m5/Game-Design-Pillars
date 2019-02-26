@@ -41,50 +41,50 @@ On the other hand, [Bungie](https://www.destinypedia.com/Seven_Pillars_of_Design
 
 While Blizzard defines broad guidelines that define the **design decisions** and **development procedures** of their workers, Bungie focuses primarily on the **player experience** while playing the game, showing that different companies create their **own rules** to follow while making their games.
 
-## What is a good Game Pillar?
+## What Is a Good Game Pillar?
 
 A good Game Pillar must define a concept that will help to guide and shape the experience that the game wants to transmit, working as a point of reference. This concept can be directed to both game elements and working methodologies to design and implement them.
 
 If a Game Pillar does not accomplish this goal, it’s not a good base or reference to develop a game. For example, I think that [Sergio Rodrigo’s Pillars of Game Development](http://srodrigo.me/the-4-pillars-of-game-development/) tackles concepts that are way too broad: Design, Art, Programming, and Music. They are basic concepts that are too vague and even obvious to work as a personal frame of reference.
 
-## My approach
+## My Approach
 
 As a personal exercise to understand the concept, I decided to create my own Game Pillars based on the information I’ve gathered during this research. With these pillars I try to set the most important bases of general game design that I believe should be applied to any game.
 
 I made them to tackle three main aspects: The core aspects of game design that make it a **fun and engaging experience**, the **mechanisms and tools** that can be exploited to implement the design choices flawlessly, and the **work procedures** that must be followed so that the entire team is coordinated and with the same **goals** in mind.
 
-### 1. Create a unique experience
+### 1. Create a Unique Experience
 * Focus on what emotions you want to transmit, how must the player **feel** while playing the game.
 * While brainstorming, think of one idea or feature that you game would have that **no other does**.
 * Establish the most important features of the game and a **creative direction** to follow.
 * The ideas must **resonate** with you, they must sound fun. Check if they still feel like expected from a **practical standpoint** by prototyping and testing the idea.
 
-### 2. Define your target audience
+### 2. Define Your Target Audience
 * Evaluate what demographic is your game targeted to. **Who** will play your game?
 * What is he **familiar** with? What needs to be **explained**? What is assumed to be **already known**?
-* What **skill level should** the game be prepared for? It must be **challenging**, without becoming frustrating nor boring (flow).
+* What **skill level should** the game be prepared for? It must be **challenging**, without becoming frustrating nor boring (difficulty flow).
 * What theme and aesthetics are best to **appeal** the player's interest? To make your mechanics intuitive and **easy to interiorize**?
 
-### 3. The core loop must be inherently fun
+### 3. The Core Loop Must Be Inherently Fun
 * The series of activities that will be repeated throught the game must be **fun and satisfying to perform**.
 * **Create prototypes** around design ideas and **test them** to see if they work on a **practical level**.
 * **Iterate** prototypes over and over until the loop is **solid and polished** so the experience feels like the desired one.
 * Each iteration must **answer** a fundamental question and evaluate the combination of all currently present elements.
-* Great short guideline: The should be **Easy to learn and FUN to master**.
+* Great short guideline: The game should be **Easy to Learn and FUN to Master**.
 
-### 4. Communicate with your team
+### 4. Communicate With Your Team
 * The core elements of the game must be **understood and acknowledged** by the team to hold a common creative ground.
 * Use the GDD to define the **core experience** of the game, **desired goals**, and any important specifications that feel relevant to the game's design. The document should be short and check only the most essential points, be a design reference for the team.
 * **Share feedback** constantly, even in informal environments, the team must work at unison.
 * **All game elements must work for the same goals.** They must all coordinate to deliver the wanted experience, even if they are managed by different people on the team.
 
-### 5. Make the game Coherent and Consistent
+### 5. Make the Game Coherent and Consistent
 * A game is **coherent** when its different elements show a **logical consistency** in their nature and behavior when related to each other.
 * Relationship between elements must result in potential combinations that the player can **explore and experiment** with.
 * Take into account what the player **expects** and his **assumptions** based on common sense and previous experiences.
 * Whatever rules your game follows, they must be **consistent** so the player can learn from them and formulate **strategies**.
 
-### 6. Guide the player: Make it intuitive without being obvious
+### 6. Guide The Player: Make it Intuitive without Being Obvious
 * **Guide** the player through the experience, but **don't hold its hand**, let him explore his options without getting lost.
 * Make elements feel **intuitive and easy to learn**. Use **aesthetic and thematic as a channel to teach mechanics**.
 * Give **feedback** to the player for his actions, **reinforce** wanted behaviors and **discourage** unwanted ones with care, **you don't want to railroad the player** but certainly limit the options to the desired game experience.
@@ -92,14 +92,14 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Give the player **meaningful rewards** proportionate to the **difficulty** of the challenges he overcomes.
 * **Don't overload the player.** Keep things **simple**, not **too many outputs** at the same time, and exploit the different **channels** available (visuals, gameplay, sound) to pass your message through **smoothly**.
 
-### 7. Let the player play
+### 7. Let The Player Play
 * Let him **explore, decide, and learn from his choices**.
 * Give him tools and an environment to experiment with, which can result in **emergent gameplay**.
 * Use **gameplay as a channel** to transmit the experience. Include the player's actions into the context of the situation so he feels as **his decisions have meaning**, affecting and shaping the world around him.
 * Whenever a new element appears for the player to learn, create a **challenge** to test his abilities and knowledge about it.
 * **Don't take control away from the player unless it's necessary to the experience**, it can easily become frustrating.
 
-### 8. Make a game you're proud of
+### 8. Make a Game You're Proud Of
 * Seems obvious, but **making a game that you would enjoy playing** is essential to put the needed work into it. Your hands are an engine, your game a goal, and **passion** your fuel.
 * Think of the project as a **reflection of your skills**, what heights are you capable to achieve.
 * **Commit** to the concept, the ideas, and the desired experience. Don't lower your standards unless you are forced to, but also try to be **realistic** about what you think you are able to achieve.
