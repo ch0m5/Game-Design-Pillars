@@ -66,7 +66,7 @@ If a Game Pillar does not accomplish this goal, it’s not a good base or refere
 
 As a personal exercise to understand the concept, I decided to create my own Game Pillars based on the information I’ve gathered during this research. With these pillars I try to set the most important bases of general game design that I believe should be applied to any game.
 
-I made them to tackle three main aspects: The core aspects of game design that make it a **fun and engaging experience**, the **mechanisms and tools** that can be exploited to implement the design choices flawlessly, and the **work procedures** that must be followed so that the entire team is coordinated and with the same **goals** in mind.
+I made them to tackle three main aspects: The core parts of game design that make it a **fun and engaging experience**, the **mechanisms and tools** that can be exploited to implement the design choices flawlessly, and the **work procedures** that must be followed so that the entire team is coordinated and with the same **goals** in mind.
 
 ### 1. Create a Unique Experience
 * Focus on what emotions you want to transmit, how must the player **feel** while playing the game.
