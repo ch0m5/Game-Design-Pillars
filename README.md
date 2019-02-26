@@ -45,11 +45,16 @@ On a production perspective, having clear Game Pillars help define all concepts 
 
 Companies create their own Game Pillars to follow and make sure that the game never deviates of this core elements of design that define the experience.
 
-[Blizzard’s Eight Core Values](http://us.blizzard.com/en-us/company/about/mission.html) could be considered their 8 Game Pillars: Gameplay First, Commit to Quality, Play Nice & Play Fair, Embrace Your Inner Geek, etc… All these guidelines mark the way Blizzard employees work, make decisions and design their games.
+[Blizzard Entertainment's Eight Core Values](http://us.blizzard.com/en-us/company/about/mission.html) could be considered their 8 Game Pillars: Gameplay First, Commit to Quality, Play Nice & Play Fair, Embrace Your Inner Geek, etc… All these guidelines mark the way Blizzard employees work, make decisions and design their games.
 
 On the other hand, [Bungie](https://www.destinypedia.com/Seven_Pillars_of_Design) created their own guidelines to create **Destiny**: A World Players Want to Be In, A Bunch of Fun Things to Do, Rewards Players Care About, etc…
 
 While Blizzard defines broad guidelines that define the **design decisions** and **development procedures** of their workers, Bungie focuses primarily on the **player experience** while playing the game, showing that different companies create their **own rules** to follow while making their games.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Blizzard_Games.jpg" width="645"/>
+</p>
+*Blizzard's Mission Statement has become a symbol of their craftmanship, and their core values are shown on every single game they develop.*
 
 ## What Is a Good Game Pillar?
 
@@ -82,12 +87,11 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Each iteration must **answer** a fundamental question and evaluate the combination of all currently present elements.
 * Great short guideline: The game should be **Easy to Learn and FUN to Master**.
 
-<iframe width="645" height="520" src="https://www.youtube.com/embed/zQvWMdWhFCc?t=242" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-*The prototyping and pre-production phases must resolve most of the doubts and set both the goals and the limits. A bad pre-production phase can lead to a desaster in the production one.*
-
-### 4. Communicate With Your Team
+### 4. Communicate With Your Team: Set Your Goals and Limits
 * The core elements of the game must be **understood and acknowledged** by the team to hold a common creative ground.
-* Use the GDD to define the **core experience** of the game, **desired goals**, and any important specifications that feel relevant to the game's design. The document should be short and check only the most essential points, be a design reference for the team.
+* Use the GDD to define the **core experience** of the game, **desired goals**, and any important specifications that feel relevant to the game's design to work as a basic reference for the team.
+* Establish the objectives, stages, limitations, deadlines, and any other **elements that will affect your schedule**, a game must release at some point and it must be finished by then. **Being prepared for unexpected issues will lessen the damage they do.**
+* Set your goals and limits on the **pre-production** phase. Any unplanned changes made in the middle of production will cost money and time, so having a **solid game concept** before entering it is crucial.
 * **Share feedback** constantly, even in informal environments, the team must work at unison.
 * **All game elements must work for the same goals.** They must all coordinate to deliver the wanted experience, even if they are managed by different people on the team.
 
