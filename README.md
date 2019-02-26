@@ -123,7 +123,7 @@ I made them to tackle three main aspects: The core parts of game design that mak
 
 ### 6. Guide the Player: Make it Intuitive without being Obvious
 * **Guide** the player through the experience, but **don't hold its hand**, let him explore his options without getting lost.
-* Make elements feel **intuitive and easy to learn**. Use **aesthetic and thematic as a channel to teach mechanics**.
+* Make mechanics **intuitive and easy to learn**. Use **aesthetic and thematic as a channel to teach mechanics**.
 * Give **feedback** to the player for his actions, **reinforce** wanted behaviors and **discourage** unwanted ones with care, **you don't want to railroad the player** but certainly limit the options to the desired game experience.
 * Provide a **general goal** for the game with **smaller short-term goals** to keep him **engaged and satisfied**.
 * Give the player **meaningful rewards** proportionate to the **difficulty** of the challenges he overcomes.
