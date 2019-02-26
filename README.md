@@ -104,11 +104,17 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Whenever a new element appears for the player to learn, create a **challenge** to test his abilities and knowledge about it.
 * **Don't take control away from the player unless it's necessary to the experience**, it can easily become frustrating.
 
+<html>
+<body>
+  
 <iframe width="645" height="520"
 src="https://www.youtube.com/watch?v=7L8vAGGitr8" frameborder="0" allowfullscreen>
 </iframe>
 *This video by **Game Maker's Toolkit** explains different concepts beautifully that directly relate to pillars 6 and 7*.
 
+</html>
+</body>
+  
 ### 8. Make a Game You're Proud Of
 * Seems obvious, but **making a game that you would enjoy playing** is essential to put the needed work into it. Your hands are an engine, your game a goal, and **passion** your fuel.
 * Think of the project as a **reflection of your skills**, what heights are you capable to achieve.
@@ -117,40 +123,22 @@ src="https://www.youtube.com/watch?v=7L8vAGGitr8" frameborder="0" allowfullscree
 
 ## Conclusions and Personal Thoughts
 
-Game Pillars can cover both **specific elements that will be the core of a game's design** and the **general rules to follow when designing and developing any game** so production goes smoothly. Every team or single developer can create his own, it will define his craft, his standards and guidelines, what goals does he want to game to achieve and which experience does he want to deliver to the player.
+Game Pillars can cover both **specific elements that will be the core of a game's design** and the **general rules to follow when designing and developing any game** so production goes smoothly. Every team or single developer can create his own, it will define his craft, his standards and guidelines, what goals does he want to game to achieve and which experience does he want to +deliver to the player.
 
 Having **strong and reliable** Game Pillars will make sure that your ideas and creative direction are **focused** from the very beginning to what you want your game to be. On a professional level, it could save you time and money, as securing the grounds of your game on pre-production via **prototypes and iteration** can avoid problems on the production phase that could **hurt both the budget and the schedule**.
 
-FORMAT REFERENCE:
+## Bibliography
 
-* Dídac Romero
-  * Role: QA
-  * Github: [DidacRomero](https://github.com/DidacRomero)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ch0m5/Project_1/gh-pages/Team_Photo.jpeg" width="645"/>
-</p>
-*From left to right: Xavi Marín, Dídac Romero, Carles Homs, Andrés Saladrigas*
-
-## Andro Dunos Gameplay Video (Cripsy Crunch)
-<html>
-<body>
-
-<iframe width="645" height="520"
-src="https://www.youtube.com/embed/1xiLvfEIpVs" frameborder="0" allowfullscreen>
-</iframe>
-
-</body>
-</html>
-
-## Andro Dunos Gameplay Video (SNK Original)
-<html>
-<body>
- 
-<iframe width="645" height="520"
-src="https://www.youtube.com/embed/MnGQaKxnA_E" frameborder="0" allowfullscreen>
-</iframe>
-
-</body>
-</html>
-
+* [Sergio Rodrigo’s Pillars of Game Development](http://srodrigo.me/the-4-pillars-of-game-development/)
+* [Design Pillars: The Core of Your Game by Max Pears](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php)
+* [4 Pillars of making a truly great game according to Ted Price by Frank Cifaldi](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php)
+* [The 13 Basic Principles of Gameplay Design by Matt Allmer](https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php?page=1)
+* [Pillars of Board Game Design](https://en.wikiversity.org/wiki/Pillars_of_Game_Development)
+* [How To Perfect Your Game’s Core Loop by Nathan Lovato](https://gameanalytics.com/blog/how-to-perfect-your-games-core-loop.html)
+* [3 Pillars of Great Video Game Design by Streamline Studios](https://www.streamline-studios.com/3-pillars-great-video-game-design/)
+* [The 3 Primary Principles of Game Design by ](https://www.gamedesigning.org/learn/game-design-principles/)
+* [Destiny: Bungie's Brave New Worlds by Michael McWhertor](https://www.polygon.com/2013/2/17/3993058/destiny-bungie-first-look-preview)
+* [Blizzard's Mission Statement](http://us.blizzard.com/en-us/company/about/mission.html)
+* [The Art of Game Design by Jesse Schell](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)
+* [Slime Rancher lead developer tips for the Prototype Stage by Alissa McAloon](https://www.gamasutra.com/view/news/303789/Slime_Rancher_dev_shares_tips_for_making_the_most_of_the_prototyping_stage.php)
+* [A Student game Post-mortem (or how not to make a game) by Antoine SARRAZIN](http://www.gamasutra.com/blogs/AntoineSARRAZIN/20190218/336585/A_Student_game_Postmortem_or_how_not_to_make_a_game.php)
