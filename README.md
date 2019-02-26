@@ -82,6 +82,9 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Each iteration must **answer** a fundamental question and evaluate the combination of all currently present elements.
 * Great short guideline: The game should be **Easy to Learn and FUN to Master**.
 
+<iframe width="645" height="520" src="https://www.youtube.com/embed/zQvWMdWhFCc?t=242" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*The prototyping and pre-production phases must resolve most of the doubts and set both the goals and the limits. A bad pre-production phase can lead to a desaster in the production one.*
+
 ### 4. Communicate With Your Team
 * The core elements of the game must be **understood and acknowledged** by the team to hold a common creative ground.
 * Use the GDD to define the **core experience** of the game, **desired goals**, and any important specifications that feel relevant to the game's design. The document should be short and check only the most essential points, be a design reference for the team.
@@ -109,7 +112,7 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Whenever a new element appears for the player to learn, create a **challenge** to test his abilities and knowledge about it.
 * **Don't take control away from the player unless it's necessary to the experience**, it can easily become frustrating.
 
-<iframe width="645" height="520" src="https://www.youtube.com/embed/7L8vAGGitr8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="645" height="520" src="https://www.youtube.com/embed/7L8vAGGitr8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *This video by **Game Maker's Toolkit** explains different concepts beautifully that directly relate to pillars 6 and 7*.
 
 ### 8. Make a Game You're Proud Of
