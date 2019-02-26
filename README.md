@@ -12,6 +12,11 @@ For [Max Pears](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_
 
 While [Ted Price](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php), [Insomniac Games](https://insomniac.games/) CEO, talks about them with a perspective that leans towards a more general **design and development process** rather than specific features that make a game unique, like focusing on what your game has that others don't and defining your target audience to make a mental model of your player.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Joel_and_Ellie.jpg" width="645"/>
+</p>
+*The relationship between Joel and Ellie is a core narrative element of the game and the experience in The Last of Us*
+
 ### Core Game Elements VS Core Design Guidelines
 
 The first approach is more specific to a certain game, as it revolves around the core elements that will define **the experience the game offers**, while the second one is more general and can be applied to a game regardless of its content. Therefore, we can assume that the 1st perspective sees Game Pillars as game-specific core elements while the 2nd one percieves them as general rulings that mark the foundation of good game development and design.
