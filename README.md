@@ -99,25 +99,19 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Whenever a new element appears for the player to learn, create a **challenge** to test his abilities and knowledge about it.
 * **Don't take control away from the player unless it's necessary to the experience**, it can easily become frustrating.
 
+### 8. Make a game you're proud of
+* Seems obvious, but **making a game that you would enjoy playing** is essential to put the needed work into it. Your hands are an engine, your game a goal, and **passion** your fuel.
+* Think of the project as a **reflection of your skills**, what heights are you capable to achieve.
+* **Commit** to the concept, the ideas, and the desired experience. Don't lower your standards unless you are forced to, but also try to be **realistic** about what you think you are able to achieve.
+* Putting your soul into a game gives it one of it's own and **pushes your limits further to make it work**.
 
+## Conclusions and Personal Thoughts
 
-FORMATE REFERENCE:
+Game Pillars can cover both **specific elements that will be the core of a game's design** and the **general rules to follow when designing and developing any game** so production goes smoothly. Every team or single developer can create his own, it will define his craft, his standards and guidelines, what goals does he want to game to achieve and which experience does he want to deliver to the player.
 
-Release Link:
-[Andro Dunos v.1.0](https://github.com/ch0m5/Project_1/releases/tag/v.1.0)
+Having **strong and reliable** Game Pillars will make sure that your ideas and creative direction are **focused** from the very beginning to what you want your game to be. On a professional level, it could save you time and money, as securing the grounds of your game on pre-production via **prototypes and iteration** can avoid problems on the production phase that could **hurt both the budget and the schedule**.
 
-## The Team: Crispy Crunch
-* Xavi Marín
-  * Role: Managment
-  * Github: [Xavimarin35](https://github.com/xavimarin35)
-
-* Andrés Saladrigas
-  * Role: Art/Design
-  * Github: [TheArzhel](https://github.com/TheArzhel)
-
-* Carles Homs 
-  * Role: Code
-  * Github: [ch0m5](https://github.com/ch0m5)
+FORMAT REFERENCE:
 
 * Dídac Romero
   * Role: QA
