@@ -72,7 +72,7 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Focus on what emotions you want to transmit, how must the player **feel** while playing the game.
 * While brainstorming, think of one idea or feature that you game would have that **no other does**.
 * Establish the most important features of the game and a **creative direction** to follow.
-* The ideas must **resonate** with you, they must sound fun. Check if they still feel like expected from a **practical standpoint** by prototyping and testing the idea.
+* The ideas must **resonate** with you, they must sound fun. Check if they feel like you expected them to do from a **practical standpoint** by prototyping and testing the idea.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Doom.jpg" width="645"/>
