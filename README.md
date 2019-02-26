@@ -97,6 +97,11 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Give the player **meaningful rewards** proportionate to the **difficulty** of the challenges he overcomes.
 * **Don't overload the player.** Keep things **simple**, not **too many outputs** at the same time, and exploit the different **channels** available (visuals, gameplay, sound) to pass your message through **smoothly**.
 
+<iframe width="645" height="520"
+src="https://www.youtube.com/embed/1xiLvfEIpVs" frameborder="0" allowfullscreen>
+</iframe>
+*This video by **Game Maker's Toolkit** explains different concepts beautifully that directly relate to this pillar*.
+
 ### 7. Let the Player Play
 * Let him **explore, decide, and learn from his choices**.
 * Give him tools and an environment to experiment with, which can result in **emergent gameplay**.
