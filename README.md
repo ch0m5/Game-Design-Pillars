@@ -49,7 +49,7 @@ Companies create their own Game Pillars to follow and make sure that the game ne
 
 On the other hand, [Bungie](https://www.destinypedia.com/Seven_Pillars_of_Design) created their own guidelines to create **Destiny**: A World Players Want to Be In, A Bunch of Fun Things to Do, Rewards Players Care About, etc…
 
-While Blizzard defines broad guidelines that define the **design decisions** and **development procedures** of their workers, Bungie focuses primarily on the **player experience** while playing the game, showing that different companies create their **own rules** to follow while making their games.
+While Blizzard defines broad guidelines that mark the **design decisions** and **development procedures** of their workers, Bungie focuses primarily on the **player experience** while playing the game, showing that different companies create their **own rules** to follow while making their games.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Blizzard_Games.jpg" width="645"/>
