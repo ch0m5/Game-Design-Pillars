@@ -136,7 +136,7 @@ Having **strong and reliable** Game Pillars will make sure that your ideas and c
 * [Pillars of Board Game Design](https://en.wikiversity.org/wiki/Pillars_of_Game_Development)
 * [How To Perfect Your Game’s Core Loop by Nathan Lovato](https://gameanalytics.com/blog/how-to-perfect-your-games-core-loop.html)
 * [3 Pillars of Great Video Game Design by Streamline Studios](https://www.streamline-studios.com/3-pillars-great-video-game-design/)
-* [The 3 Primary Principles of Game Design by ](https://www.gamedesigning.org/learn/game-design-principles/)
+* [The 3 Primary Principles of Game Design](https://www.gamedesigning.org/learn/game-design-principles/)
 * [Destiny: Bungie's Brave New Worlds by Michael McWhertor](https://www.polygon.com/2013/2/17/3993058/destiny-bungie-first-look-preview)
 * [Blizzard's Mission Statement](http://us.blizzard.com/en-us/company/about/mission.html)
 * [The Art of Game Design by Jesse Schell](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)
