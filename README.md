@@ -28,7 +28,7 @@ The book [The Art of Game Design](https://www.sciencedirect.com/book/97801236949
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Art_of_Game_Design.jpg" width="645"/>
 </p>
-*Schell's scheme to organize all lenses. A must read for any current or future Game Designer.*
+*Schell's scheme that relates all of his design topics. A must read for any current or future Game Designer.*
 
 That said, the 1st perspective is a perfectly valid one and is a great procedure to follow: defining what core mechanics or elements will define your game will help you steer which direction your **creative process** will go to and quickly identify which ideas add to the desired goals for the game. However, the 2nd one allows you to create your own **design handbook** which you can apply to any game you want to create, making it more polivalent. Something similar to the [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4), but applied to game development.
 
