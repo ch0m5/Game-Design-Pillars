@@ -129,15 +129,18 @@ I made them to tackle three main aspects: The core parts of game design that mak
 * Give the player **meaningful rewards** proportionate to the **difficulty** of the challenges he overcomes.
 * **Don't overload the player.** Keep things **simple**, not **too many outputs** at the same time, and exploit the different **channels** available (visuals, gameplay, sound) to pass your message through **smoothly**.
 
+<iframe width="645" height="520" src="https://www.youtube.com/embed/7L8vAGGitr8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*This video by **Game Maker's Toolkit** explains different concepts beautifully that directly relate to player guidance.*
+
 ### 7. Let the Player Play
-* Let him **explore, decide, and learn from his choices**.
-* Give him tools and an environment to experiment with, which can result in **emergent gameplay**.
+* Let him **explore**, **decide**, and **learn** from his choices**.
+* Give him tools and an environment to experiment with, which gives the game **depth** and can result in **emergent gameplay**.
 * Use **gameplay as a channel** to transmit the experience. Include the player's actions into the context of the situation so he feels as **his decisions have meaning**, affecting and shaping the world around him.
 * Whenever a new element appears for the player to learn, create a **challenge** to test his abilities and knowledge about it.
 * **Don't take control away from the player unless it's necessary to the experience**, it can easily become frustrating.
 
-<iframe width="645" height="520" src="https://www.youtube.com/embed/7L8vAGGitr8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-*This video by **Game Maker's Toolkit** explains different concepts beautifully that directly relate to pillars 6 and 7*.
+<iframe width="675" height="379" src="https://www.youtube.com/embed/jVL4st0blGU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*This video by **Extra Credits** talks about **depth and complexity** and the possibilites that can come out from a single ruleset.*
 
 ### 8. Make a Game You're Proud Of
 * Seems obvious, but **making a game that you would enjoy playing** is essential to put the needed work into it. Your hands are an engine, your game a goal, and **passion** your fuel.
