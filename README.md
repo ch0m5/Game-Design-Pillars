@@ -6,7 +6,7 @@
 ## What is a Game Pillar?
 A *pillar* is a term used to define an element that serves as a supporting, integral part of something, so we can assume a Game Pillar is a fundamental part of a Game that works as a **foundation** for its design.
 
-However, there isn’t a widely acknowledged definition for what a Game Pillar is supposed to be, and so different uses of the term exist while remaining true to what a **pillar** is supposed to be.
+However, there isn’t a widely acknowledged definition for what a Game Pillar is supposed to be, and so different uses of the term exist while remaining true to the **pillar** component.
 
 For [Max Pears](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php), Level Designer at [CD Projekt Red](https://en.cdprojektred.com/), a game pillar is the most **basic elements and emotions** that a game is trying to explore and make the players feel. As an example, he uses [The Last of Us](https://www.playstation.com/en-us/games/the-last-of-us-ps3/) and its focus on **narrative** and a partner-like relationship and [The Legend of Zelda: Breath of the Wild](https://www.zelda.com/breath-of-the-wild/) and its focus on **exploration and travel**.
 
