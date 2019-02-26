@@ -104,9 +104,6 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Whenever a new element appears for the player to learn, create a **challenge** to test his abilities and knowledge about it.
 * **Don't take control away from the player unless it's necessary to the experience**, it can easily become frustrating.
 
-<iframe width="645" height="520" src="https://www.youtube.com/embed/7L8vAGGitr8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-*This video by **Game Maker's Toolkit** explains different concepts beautifully that directly relate to pillars 6 and 7*.
-
 ### 8. Make a Game You're Proud Of
 * Seems obvious, but **making a game that you would enjoy playing** is essential to put the needed work into it. Your hands are an engine, your game a goal, and **passion** your fuel.
 * Think of the project as a **reflection of your skills**, what heights are you capable to achieve.
