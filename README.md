@@ -84,7 +84,7 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Take into account what the player **expects** and his **assumptions** based on common sense and previous experiences.
 * Whatever rules your game follows, they must be **consistent** so the player can learn from them and formulate **strategies**.
 
-### 6. Guide The Player: Make it Intuitive without Being Obvious
+### 6. Guide the Player: Make it Intuitive without being Obvious
 * **Guide** the player through the experience, but **don't hold its hand**, let him explore his options without getting lost.
 * Make elements feel **intuitive and easy to learn**. Use **aesthetic and thematic as a channel to teach mechanics**.
 * Give **feedback** to the player for his actions, **reinforce** wanted behaviors and **discourage** unwanted ones with care, **you don't want to railroad the player** but certainly limit the options to the desired game experience.
@@ -92,7 +92,7 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Give the player **meaningful rewards** proportionate to the **difficulty** of the challenges he overcomes.
 * **Don't overload the player.** Keep things **simple**, not **too many outputs** at the same time, and exploit the different **channels** available (visuals, gameplay, sound) to pass your message through **smoothly**.
 
-### 7. Let The Player Play
+### 7. Let the Player Play
 * Let him **explore, decide, and learn from his choices**.
 * Give him tools and an environment to experiment with, which can result in **emergent gameplay**.
 * Use **gameplay as a channel** to transmit the experience. Include the player's actions into the context of the situation so he feels as **his decisions have meaning**, affecting and shaping the world around him.
