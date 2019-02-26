@@ -74,11 +74,21 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Establish the most important features of the game and a **creative direction** to follow.
 * The ideas must **resonate** with you, they must sound fun. Check if they still feel like expected from a **practical standpoint** by prototyping and testing the idea.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Doom.jpg" width="645"/>
+</p>
+*DOOM was originally made in 1993 providing an experience revolving around movement, extreme violence, and lots of combat options. **23 years later**, they deliver the exact same experience in today's technology standards.*
+
 ### 2. Define Your Target Audience
 * Evaluate what demographic is your game targeted to. **Who** will play your game?
 * What is he **familiar** with? What needs to be **explained**? What is assumed to be **already known**?
 * What **skill level should** the game be prepared for? It must be **challenging**, without becoming frustrating nor boring (difficulty flow).
 * What theme and aesthetics are best to **appeal** the player's interest? To make your mechanics intuitive and **easy to interiorize**?
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Arma_3.jpg" width="645"/>
+</p>
+*Arma 3 is a **Military Simulator** that acknowledges their target audience as players looking for a realistic hardcore military shooter experience. This is reflected in its design, for example in the knowledge and skill level expected from the player.*
 
 ### 3. The Core Loop Must Be Inherently Fun
 * The series of activities that will be repeated throught the game must be **fun and satisfying to perform**.
@@ -87,19 +97,29 @@ I made them to tackle three main aspects: The core aspects of game design that m
 * Each iteration must **answer** a fundamental question and evaluate the combination of all currently present elements.
 * Great short guideline: The game should be **Easy to Learn and FUN to Master**.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Super_Mario.jpg" width="645"/>
+</p>
+*The core loop of Super Mario games is to move and jump. That alone felt satisfying and fun when testing, enough to expand on that idea and create the legendary franchise we know today.*
+
 ### 4. Communicate With Your Team: Set Your Goals and Limits
 * The core elements of the game must be **understood and acknowledged** by the team to hold a common creative ground.
 * Use the GDD to define the **core experience** of the game, **desired goals**, and any important specifications that feel relevant to the game's design to work as a basic reference for the team.
 * Establish the objectives, stages, limitations, deadlines, and any other **elements that will affect your schedule**, a game must release at some point and it must be finished by then. **Being prepared for unexpected issues will lessen the damage they do.**
 * Set your goals and limits on the **pre-production** phase. Any unplanned changes made in the middle of production will cost money and time, so having a **solid game concept** before entering it is crucial.
 * **Share feedback** constantly, even in informal environments, the team must work at unison.
-* **All game elements must work for the same goals.** They must all coordinate to deliver the wanted experience, even if they are managed by different people on the team.
+* **All game elements must work towards the same goals in an harmonic fashion.** They must all coordinate to deliver the wanted experience, even if they are managed by different people on the team.
 
 ### 5. Make the Game Coherent and Consistent
 * A game is **coherent** when its different elements show a **logical consistency** in their nature and behavior when related to each other.
 * Relationship between elements must result in potential combinations that the player can **explore and experiment** with.
 * Take into account what the player **expects** and his **assumptions** based on common sense and previous experiences.
 * Whatever rules your game follows, they must be **consistent** so the player can learn from them and formulate **strategies**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Halo_Covenant.jpg" width="645"/>
+</p>
+*Halo showcases different kinds of enemies, each with a very distinctive look and consistent behavior. This allows the player to quickly identify a type of enemy, learn its move and attack patterns, and create tactics around it.*
 
 ### 6. Guide the Player: Make it Intuitive without being Obvious
 * **Guide** the player through the experience, but **don't hold its hand**, let him explore his options without getting lost.
