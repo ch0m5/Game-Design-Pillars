@@ -140,7 +140,7 @@ I made them to tackle three main aspects: The core parts of game design that mak
 * **Don't take control away from the player unless it's necessary to the experience**, it can easily become frustrating.
 
 <iframe width="675" height="379" src="https://www.youtube.com/embed/jVL4st0blGU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-*This video by **Extra Credits** talks about **depth and complexity** and the possibilites that can come out from a single ruleset. This relates to both pillars 6 and 7.*
+*This video by **Extra Credits** talks about **depth and complexity**: the possibilites that can come out from a single ruleset and how to explain it to the player without having him feeling overwhelmed. This relates to both pillars 6 and 7.*
 
 ### 8. Make a Game You're Proud Of
 * Seems obvious, but **making a game that you would enjoy playing** is essential to put the needed work into it. Your hands are an engine, your game a goal, and **passion** your fuel.
