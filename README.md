@@ -3,19 +3,33 @@
 
 "I am [Carles Homs](https://www.linkedin.com/in/ch0m5/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu)."
 
-## What is a Game Pillar?
-A *pillar* is a term used to define an element that serves as a supporting, integral part of something, so we can assume a Game Pillar is a fundamental part of a Game that works as a **foundation** for its design.
+## Introduction
+A *pillar* is a term used to define an element that serves as a supporting, integral part of something.
 
-However, there isn’t a widely acknowledged definition for what a Game Pillar is supposed to be, and so different uses of the term exist while remaining true to the **pillar** component.
+In this research article I'll be talking about two topics. On one hand, the concept of ***Game Pillars*** and their part in the foundations of a game’s design. On the other, the guidelines to follow during the design and development of any videogame, what I like to call **Game *Design* Pillars**. Both work as a set of guidelines to follow when designing a game. However, **Game Pillars** are made for a specific game, while **Game Design Pillars** can be used as reference regardless of the game where they are applied.
 
+This research was originally intended to address only **Game Pillars**. However, I misunderstood the concept and ended up focusing on what I now call ***Game Design Pillars***, and when I realized my mistake I decided to address both topics as they serve a similar purpose but aren’t the same concepts, and I think that talking about both can be really helpful and serve as a reference for new designers trying to start their own projects.
+
+# Game Pillars
 For [Max Pears](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php), Level Designer at [CD Projekt Red](https://en.cdprojektred.com/), a game pillar is the most **basic elements and emotions** that a game is trying to explore and make the players feel. As an example, he uses [The Last of Us](https://www.playstation.com/en-us/games/the-last-of-us-ps3/) and its focus on **narrative** and a partner-like relationship and [The Legend of Zelda: Breath of the Wild](https://www.zelda.com/breath-of-the-wild/) and its focus on **exploration and travel**.
 
-While [Ted Price](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php), [Insomniac Games](https://insomniac.games/) CEO, talks about them with a perspective that leans towards a more general **design and development process** rather than specific features that make a game unique, like focusing on what your game has that others don't and defining your target audience to make a mental model of your player.
+**Game Pillars** must contain the **core emotions, objectives, and any other element that defines what experience is the game trying to deliver**. This should be used to guide the design of the game and serve as a filter that any idea must go through to see if it serves these pillars and push it further or goes against them and immediately discard it.
+
+These not only serves as a **guideline** for any concepts that come through for the game’s design, but also acts as a **limit** to make sure that designers don’t wander out of original intended path for the game, attempting to prevent any mishaps during production, where the budget and time is used, by setting the foundations of the entire game in pre-production, Game Pillars being one of the first steps.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Joel_and_Ellie.jpg" width="645"/>
 </p>
 *The relationship between Joel and Ellie is a core narrative element of the game and the experience in The Last of Us.*
+
+
+------- FOLLOW HERE
+
+
+While [Ted Price](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php), [Insomniac Games](https://insomniac.games/) CEO, talks about them with a perspective that leans towards a more general **design and development process** rather than specific features that make a game unique, like focusing on what your game has that others don't and defining your target audience to make a mental model of your player.
+
+-------
+
 
 ### Core Game Elements VS Core Design Guidelines
 
