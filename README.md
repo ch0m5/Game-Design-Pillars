@@ -13,7 +13,7 @@ This research was originally intended to address only **Game Pillars**. However,
 
 **Game Pillars** must contain the **core emotions, objectives, and any other element that defines what experience is the game trying to deliver**. This should be used to guide the design of the game and serve as a **filter** that any idea must go through to see if it serves these pillars and push it further or goes against them and immediately discard it.
 
-An official example of this practice comes directly from [Bungie](https://www.bungie.net/)'s Game Pillars for **[Destiny](https://www.destinythegame.com/d1.html)**, which you can find listed [here](https://www.destinypedia.com/Seven_Pillars_of_Design).
+An official example of this practice comes directly from [Bungie](https://www.bungie.net/)'s Game Pillars for [Destiny](https://www.destinythegame.com/d1.html), which you can find listed [here](https://www.destinypedia.com/Seven_Pillars_of_Design).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Joel_and_Ellie.jpg" width="645"/>
