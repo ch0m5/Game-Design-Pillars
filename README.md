@@ -1,14 +1,12 @@
-# The Pillars of Game Design
+# A Short Guide To Game Design
 ### by Carles Homs
 
 "I am [Carles Homs](https://www.linkedin.com/in/ch0m5/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu)."
 
 ## Introduction
-A *pillar* is a term used to define an element that serves as a supporting, integral part of something.
+In this research article I'll be talking about two topics. On one hand, the concept of ***Game Pillars*** and their part in the foundations of a game’s design. On the other, some simple principles to follow during the design and development of any videogame, that I've titled ***A Pocket Guide to Game Design***. Both work as a set of guidelines to follow when designing a game. However, **Game Pillars** are something each developer must make for their game, while the guide is something I compiled after researching about design dos and don'ts and can be used regardless of the game where they are applied.
 
-In this research article I'll be talking about two topics. On one hand, the concept of ***Game Pillars*** and their part in the foundations of a game’s design. On the other, the guidelines to follow during the design and development of any videogame, what I like to call **Game *Design* Pillars**. Both work as a set of guidelines to follow when designing a game. However, **Game Pillars** are made for a specific game, while **Game Design Pillars** can be used as reference regardless of the game where they are applied.
-
-This research was originally intended to address only **Game Pillars**. However, I misunderstood the concept and ended up focusing on what I now call ***Game Design Pillars***, and when I realized my mistake I decided to address both topics as they serve a similar purpose but aren’t the same concepts, and I think that talking about both can be really helpful and serve as a reference for new designers trying to start their own projects.
+This research was originally intended to address only **Game Pillars**. However, I misunderstood the concept and ended up focusing on other, more general guidelines which I now compiled and transformed into a small reference article. When I realized my mistake I decided to address both topics as they serve a similar purpose but aren’t the same concepts, and I think that talking about both can be really helpful and serve as a reference for new designers trying to start their own projects.
 
 # Game Pillars
 [Max Pears](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php), Level Designer at [CD Projekt Red](https://en.cdprojektred.com/), descrives game pillars as the most **basic elements and emotions** that a game is trying to explore and make the players feel. As an example, he uses [The Last of Us](https://www.playstation.com/en-us/games/the-last-of-us-ps3/) and its focus on **narrative** and a **partner-like relationship** and [The Legend of Zelda: Breath of the Wild](https://www.zelda.com/breath-of-the-wild/) and its focus on **exploration and travel**.
@@ -19,6 +17,8 @@ This research was originally intended to address only **Game Pillars**. However,
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Joel_and_Ellie.jpg" width="645"/>
 </p>
 *The relationship between Joel and Ellie is a core narrative element of the game and the experience in The Last of Us.*
+
+Another existent example is [Bungie](https://www.bungie.net/)'s Game Pillars for **[Destiny](https://www.destinythegame.com/d1.html)**, which you can find listed [here](https://www.destinypedia.com/Seven_Pillars_of_Design).
 
 ## Why do we need them?
 Game Pillars make sure that the **design goals** of the game are made clear from the very first moment and serve as a **guideline** for the design team during the entire **creative process**. It also acts as a **limit** to make sure that designers don’t wander out of original intended path for the game and end up with a final product that does not accomplish the original desired goals, or even worse: **not finishing the game at all**.
@@ -32,9 +32,9 @@ As Antoine Sarrazin explains in his article *[Illtide Post-Mortem: How not to ma
 If a consensus is not reached on a certain time threshold, have a designated member that will make the final decision. **Choose who is going to choose.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Illtide.JPG" width="645"/>
+  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Purified.jpg" width="645"/>
 </p>
-*"When you don’t have any creative direction, or even worse, if your team does not agree on a single concept or direction, it becomes a mess. Everyone just starts making stuff on their own and following their own direction."*
+***Creative Direction** of the **Purified** team. "When you don’t have any creative direction, or even worse, if your team does not agree on a single concept or direction, it becomes a mess. Everyone just starts making stuff on their own and following their own direction."*
 
 From a development perspective: Establishing **Game Pillars** and following them can prevent mishaps during **production** by setting the foundations of the entire game in **pre-production**. Therefore, all ideas, concepts, and design choices are processed and consolidated before starting to invest **time and budget**, a point where mistakes can severely hurt the development process.
 
@@ -48,50 +48,30 @@ On the other hand, a bad Game Pillar is **too broad or obvious** and **doesn't c
 </p>
 *A Bordelands 2 Game Pillar is easily **massive amounts of loot and rewards**. The developers wanted the player to be showered with items so he could compare them, pick his favorites, and change his equipment often to have a feeling of improvement and progress.*
 
+While Blizzard defines broad guidelines that mark the **design decisions** and **development procedures** of their workers, Bungie focuses primarily on the **player experience** while playing the game, showing that different companies create their **own rules** to follow while making their games.
+
 ## Your Turn
 Analyze games you've played from a designer perspective, "*reverse engineer*" them, and try to figure out what Game Pillars they had in mind when choosing the **core elements and goals** that would define the game's **experience**. Or if you're making a game yourself, stablish the foundations it needs for a clear **Creative Direction**.
 
-# Game Design Pillars
-[Ted Price](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php), [Insomniac Games](https://insomniac.games/) CEO, talks about what I call **Game Design Pillars**, a perspective that leans towards a more general **design and development process** rather than specific features that make a game unique, like focusing on what your game has that others don't and defining your target audience to make a mental model of your player.
+# A Pocket Guide to Game Design
+## Introduction
+In this part of the research I intend to **compress** the **most basic principles of game design** I've been able to find into a short, handy guide which any starting designer should be able to apply to his creative process of any game. Maybe not as specific or extensive as many of the other existent guides, but as a **starting point** that's **accesible and easy to understand** for anyone interested in the topic.
 
-[Jesse Schell](https://www.jesseschell.com/), author of the book [The Art of Game Design](https://www.sciencedirect.com/book/9780123694966/the-art-of-game-design) uses the term ***lenses***, as for him each concept is a different way to look at the design of your game (more than a 100!) and the combination of all of them create an ideal general guideline to follow for any game design.
+I made it to tackle three main aspects: The core parts of game design that make it a **fun and engaging experience**, the **mechanisms and tools** that can be exploited to implement the design choices flawlessly, and the **work procedures** that must be followed so that the entire team is coordinated and with the same **goals** in mind.
+
+## The Basics of Game Design
+In the article *[The 4 Pillars of making a truly great game](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php)*, [Ted Price](https://en.wikipedia.org/wiki/Ted_Price), [Insomniac Games](https://insomniac.games/) CEO, talks about design pillars in a perspective that leans towards a more general **design and development process** rather than specific features that make a game unique, like focusing on what your game has that others don't and defining your target audience to make a mental model of your player.
+
+Another designer, [Jesse Schell](https://www.jesseschell.com/), author of the book [The Art of Game Design](https://www.sciencedirect.com/book/9780123694966/the-art-of-game-design) uses the term ***lenses***, instead of pillars, as for him each concept he presents is a different way to look at the design of your game (more than a 100!) and the combination of all of them create an ideal general guideline to follow for any game design.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Art_of_Game_Design.jpg" width="645"/>
 </p>
 *Schell's scheme that relates all of his design topics. A must-read for any current or future Game Designer.*
 
-In this research I intend to stablish this Game Design Pillars as a kind of **handbook** which you can apply to any game you want to create, making it a polivalent guide. Something similar to the [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4), but applied to game design.
+And on a different publication, [The 13 Basic Principles of Gameplay Design](https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php) by [Matt Almer](https://www.linkedin.com/in/allmer/), he creates his own version of the [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4), and many of share the same name, but they're all applied to gameplay design. This 13 principles are **specific and straight to the point**, something to always have in mind when deciding how each feature will be implemented into the game and how it will relate with others already present.
 
-## Why are they helpful?
-A Game Design Pillar works as a **general reference** to follow throughout the entire design process to avoid making known mistakes and working ideas towards already established *rules* of good game design. Just like Game Pillars, it works as a **filter** for ideas and concepts to secure the quality of the game and making sure that all new introduced elements follow certain guidelines.
-
-## Existent Examples
-Companies create their **own** guidelines to follow to ensure all their employees know their goals ----------KEEP GOING HERE.
-
-[Blizzard Entertainment's Eight Core Values](http://us.blizzard.com/en-us/company/about/mission.html) could be considered their 8 Game Pillars: Gameplay First, Commit to Quality, Play Nice & Play Fair, Embrace Your Inner Geek, etc… All these guidelines mark the way Blizzard employees work, make decisions and design their games.
-
-On the other hand, [Bungie](https://www.destinypedia.com/Seven_Pillars_of_Design) created their own guidelines to create **Destiny**: A World Players Want to Be In, A Bunch of Fun Things to Do, Rewards Players Care About, etc…
-
-While Blizzard defines broad guidelines that mark the **design decisions** and **development procedures** of their workers, Bungie focuses primarily on the **player experience** while playing the game, showing that different companies create their **own rules** to follow while making their games.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Blizzard_Games.jpg" width="645"/>
-</p>
-*Blizzard's Mission Statement has become a symbol of their craftmanship, and their core values are shown on every single game they develop.*
-
-## What's a good Game Pillar?
-
-A good Game Pillar must define a concept that will help to guide and shape the experience that the game wants to transmit, working as a point of reference. This concept can be directed to both game elements and working methodologies to design and implement them.
-
-If a Game Pillar does not accomplish this goal, it’s not a good base or reference to develop a game. For example, I think that [Sergio Rodrigo’s Pillars of Game Development](http://srodrigo.me/the-4-pillars-of-game-development/) tackles concepts that are way too broad: Design, Art, Programming, and Music. They are basic concepts that are too vague and even obvious to work as a personal frame of reference.
-
-## My Approach
-
-As a personal exercise to understand the concept, I decided to create my own Game Pillars based on the information I’ve gathered during this research. With these pillars I try to set the most important bases of general game design that I believe should be applied to any game.
-
-I made them to tackle three main aspects: The core parts of game design that make it a **fun and engaging experience**, the **mechanisms and tools** that can be exploited to implement the design choices flawlessly, and the **work procedures** that must be followed so that the entire team is coordinated and with the same **goals** in mind.
-
+## The Guide
 ### 1. Create a Unique Experience
 * Focus on what emotions you want to transmit, how must the player **feel** while playing the game.
 * While brainstorming, think of one idea or feature that you game would have that **no other does**.
@@ -126,6 +106,13 @@ I made them to tackle three main aspects: The core parts of game design that mak
 </p>
 *The core loop of Super Mario games is to move and jump. That alone felt satisfying and fun when testing, enough to expand on that idea and create the legendary franchise we know today.*
 
+If you're looking for more information, I highly recommend the article *[How to Perfect Your Game's Core Loop](https://gameanalytics.com/blog/how-to-perfect-your-games-core-loop.html)*, which goes a lot more deeper into the topic, and take a look at [Prototyping Tips](https://www.gamasutra.com/view/news/303789/Slime_Rancher_dev_shares_tips_for_making_the_most_of_the_prototyping_stage.php) from [Slime Rancher](http://slimerancher.com/)'s lead developer [Nick Popovich](https://twitter.com/NickPopovich) if you're interested in more details about the importance of iterating your game.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Slime_Rancher.png" width="645"/>
+</p>
+*"Other systems in a game are fantastic at diverting you from what’s important, so make sure what ever is the most important thing is shining before you leave the prototype stage."*
+
 ### 4. Communicate With Your Team: Set Your Goals and Limits
 * The core elements of the game must be **understood and acknowledged** by the team to hold a common creative ground.
 * Use the GDD to define the **core experience** of the game, **desired goals**, and any important specifications that feel relevant to the game's design to work as a basic reference for the team.
@@ -133,6 +120,11 @@ I made them to tackle three main aspects: The core parts of game design that mak
 * Set your goals and limits on the **pre-production** phase. Any unplanned changes made in the middle of production will cost money and time, so having a **solid game concept** before entering it is crucial.
 * **Share feedback** constantly, even in informal environments, the team must work at unison.
 * **All game elements must work towards the same goals in an harmonic fashion.** They must all coordinate to deliver the wanted experience, even if they are managed by different people on the team.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Illtide.JPG" width="645"/>
+</p>
+*Not having good team communication and goal consensus ends up in problems like the ones seen on the development of Illtide, where there was no cohesive work and everyone was following a different creative direction.*
 
 ### 5. Make the Game Coherent and Consistent
 * A game is **coherent** when its different elements show a **logical consistency** in their nature and behavior when related to each other.
@@ -173,13 +165,15 @@ I made them to tackle three main aspects: The core parts of game design that mak
 * Putting your soul into a game gives it one of it's own and **pushes your limits further to make it work**.
 
 ## Conclusions and Personal Thoughts
+**Game Pillars** cover **specific elements that will be the core of a game's design** to lead the entire creative process for the whole team and ensure production goes as smoothly as it can be by having a productive and well-rounded pre-production stage, which can save both time and money. Each game must have its Game Pillars to **define the experience it wants to deliver** with **accuracy** so only the most **essential** ideas and features that contribute to it get into the game.
 
-Game Pillars can cover both **specific elements that will be the core of a game's design** and the **general rules to follow when designing and developing any game** so production goes smoothly. Every team or single developer can create his own, it will define his craft, his standards and guidelines, what goals does he want to game to achieve and which experience does he want to deliver to the player.
+On the other hand, **Game Design Guidelines** can help as a reminder of concepts that are already known to be effective and also work as a **filter** in the very same way Game Pillars do for ideas that contradict the most basic rules of Game Design. During this research I've seen I have a lot to learn and that there's just **so many factors** to take into account to ensure an enjoyable player experience, but still wish that this small guide can help anyone that's starting out and is looking for some good references to the topic.
 
-Having **strong and reliable** Game Pillars will make sure that your ideas and creative direction are **focused** from the very beginning to what you want your game to be. On a professional level, it could save you time and money, as securing the grounds of your game on pre-production via **prototypes and iteration** can avoid problems on the production phase that could **hurt both the budget and the schedule**.
+I also **highly** recommend two YouTube channels that have incredible and relatively short videos explaining different topics in Game Design and are included in this research:
+* [Extra Credits](https://www.youtube.com/user/ExtraCreditz)
+* [Game Maker's Toolkit](https://www.youtube.com/user/McBacon1337)
 
 ## Bibliography
-
 * [Sergio Rodrigo’s Pillars of Game Development](http://srodrigo.me/the-4-pillars-of-game-development/)
 * [Design Pillars: The Core of Your Game by Max Pears](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php)
 * [4 Pillars of making a truly great game according to Ted Price by Frank Cifaldi](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php)
@@ -189,7 +183,6 @@ Having **strong and reliable** Game Pillars will make sure that your ideas and c
 * [3 Pillars of Great Video Game Design by Streamline Studios](https://www.streamline-studios.com/3-pillars-great-video-game-design/)
 * [The 3 Primary Principles of Game Design](https://www.gamedesigning.org/learn/game-design-principles/)
 * [Destiny: Bungie's Brave New Worlds by Michael McWhertor](https://www.polygon.com/2013/2/17/3993058/destiny-bungie-first-look-preview)
-* [Blizzard's Mission Statement](http://us.blizzard.com/en-us/company/about/mission.html)
 * [The Art of Game Design by Jesse Schell](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)
 * [Slime Rancher lead developer tips for the Prototype Stage by Alissa McAloon](https://www.gamasutra.com/view/news/303789/Slime_Rancher_dev_shares_tips_for_making_the_most_of_the_prototyping_stage.php)
 * [Illtide Post-Mortem: How not to make a game by Antoine Sarrazin](http://blog.antoinesarrazin.com/en/blog/illtide-post-mortem)
