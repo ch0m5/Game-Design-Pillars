@@ -13,12 +13,12 @@ This research was originally intended to address only **Game Pillars**. However,
 
 **Game Pillars** must contain the **core emotions, objectives, and any other element that defines what experience is the game trying to deliver**. This should be used to guide the design of the game and serve as a **filter** that any idea must go through to see if it serves these pillars and push it further or goes against them and immediately discard it.
 
+An official example of this practice comes directly from [Bungie](https://www.bungie.net/)'s Game Pillars for **[Destiny](https://www.destinythegame.com/d1.html)**, which you can find listed [here](https://www.destinypedia.com/Seven_Pillars_of_Design).
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Joel_and_Ellie.jpg" width="645"/>
 </p>
 *The relationship between Joel and Ellie is a core narrative element of the game and the experience in The Last of Us.*
-
-Another existent example is [Bungie](https://www.bungie.net/)'s Game Pillars for **[Destiny](https://www.destinythegame.com/d1.html)**, which you can find listed [here](https://www.destinypedia.com/Seven_Pillars_of_Design).
 
 ## Why do we need them?
 Game Pillars make sure that the **design goals** of the game are made clear from the very first moment and serve as a **guideline** for the design team during the entire **creative process**. It also acts as a **limit** to make sure that designers don’t wander out of original intended path for the game and end up with a final product that does not accomplish the original desired goals, or even worse: **not finishing the game at all**.
