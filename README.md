@@ -1,4 +1,4 @@
-# The Pillars of Game Design and Development
+# The Pillars of Game Design
 ### by Carles Homs
 
 "I am [Carles Homs](https://www.linkedin.com/in/ch0m5/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu)."
@@ -52,27 +52,20 @@ Analyze games you've played from a designer perspective, "*reverse engineer*" th
 # Game Design Pillars
 [Ted Price](http://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php), [Insomniac Games](https://insomniac.games/) CEO, talks about what I call **Game Design Pillars**, a perspective that leans towards a more general **design and development process** rather than specific features that make a game unique, like focusing on what your game has that others don't and defining your target audience to make a mental model of your player.
 
-The book [The Art of Game Design](https://www.sciencedirect.com/book/9780123694966/the-art-of-game-design) by [Jesse Schell](https://www.jesseschell.com/) seems to share this perspective of Game Pillars, but he uses the terms ***lenses***, as for him each concept is a different way to look at the design of your game (more than a 100!) and the combination of all of them create an ideal general guideline to follow for any game design.
+[Jesse Schell](https://www.jesseschell.com/), author of the book [The Art of Game Design](https://www.sciencedirect.com/book/9780123694966/the-art-of-game-design) uses the term ***lenses***, as for him each concept is a different way to look at the design of your game (more than a 100!) and the combination of all of them create an ideal general guideline to follow for any game design.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Art_of_Game_Design.jpg" width="645"/>
 </p>
 *Schell's scheme that relates all of his design topics. A must-read for any current or future Game Designer.*
 
-That said, the 1st perspective is a perfectly valid one and is a great procedure to follow: defining what core mechanics or elements will define your game will help you steer which direction your **creative process** will go to and quickly identify which ideas add to the desired goals for the game. However, the 2nd one allows you to create your own **design handbook** which you can apply to any game you want to create, making it more polivalent. Something similar to the [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4), but applied to game development.
+In this research I intend to stablish this Game Design Pillars as a kind of **handbook** which you can apply to any game you want to create, making it a polivalent guide. Something similar to the [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4), but applied to game design.
 
-I still highly recommend to use **both** to get the best of your game and development process.
-
-## Why do we need them?
-A Game Pillar works as a **guideline** to follow throughout the entire design process to see which ideas add to the design goals of the game and which don’t, working as a **filter** to secure the quality of the game and making sure that all new introduced elements add to the desired experience.
-
-Depending on what pillars are stablished, they also define how the development team must work, communicate, and cooperate to make sure the different game elements function in **harmony** even if the team is separated in different sectors and aspects of the game.
-
-On a production perspective, having clear Game Pillars help define all concepts that must be settled during **pre-production** and must be considered every time a new design idea arises. Having strong Game Pillars that are used as reference during the prototyping stages secure that the game has a solid base which can be built upon, adding details and implementing features in the production phase with clear goals in mind so budget and time isn't wasted.
+## Why are they helpful?
+A Game Design Pillar works as a **general reference** to follow throughout the entire design process to avoid making known mistakes and working ideas towards already established *rules* of good game design. Just like Game Pillars, it works as a **filter** for ideas and concepts to secure the quality of the game and making sure that all new introduced elements follow certain guidelines.
 
 ## Existent Examples
-
-Companies create their own Game Pillars to follow and make sure that the game never deviates of this core elements of design that define the experience.
+Companies create their **own** guidelines to follow to ensure all their employees know their goals ----------KEEP GOING HERE.
 
 [Blizzard Entertainment's Eight Core Values](http://us.blizzard.com/en-us/company/about/mission.html) could be considered their 8 Game Pillars: Gameplay First, Commit to Quality, Play Nice & Play Fair, Embrace Your Inner Geek, etc… All these guidelines mark the way Blizzard employees work, make decisions and design their games.
 
