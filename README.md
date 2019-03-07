@@ -34,7 +34,7 @@ If a consensus is not reached on a certain time threshold, have a designated mem
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Purified.jpg" width="645"/>
 </p>
-***Creative Direction** of the **Purified** team. "When you don’t have any creative direction, or even worse, if your team does not agree on a single concept or direction, it becomes a mess. Everyone just starts making stuff on their own and following their own direction."*
+***Creative Direction** of the **Purified** team. "When you don’t have any creative direction, or even worse, if your team does not agree on a single concept or direction, it becomes a mess. Everyone just starts making stuff on their own and following their own direction." -Antoine Sarrazin*
 
 From a development perspective: Establishing **Game Pillars** and following them can prevent mishaps during **production** by setting the foundations of the entire game in **pre-production**. Therefore, all ideas, concepts, and design choices are processed and consolidated before starting to invest **time and budget**, a point where mistakes can severely hurt the development process.
 
@@ -47,8 +47,6 @@ On the other hand, a bad Game Pillar is **too broad or obvious** and **doesn't c
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Borderlands.jpg" width="645"/>
 </p>
 *A Bordelands 2 Game Pillar is easily **massive amounts of loot and rewards**. The developers wanted the player to be showered with items so he could compare them, pick his favorites, and change his equipment often to have a feeling of improvement and progress.*
-
-While Blizzard defines broad guidelines that mark the **design decisions** and **development procedures** of their workers, Bungie focuses primarily on the **player experience** while playing the game, showing that different companies create their **own rules** to follow while making their games.
 
 ## Your Turn
 Analyze games you've played from a designer perspective, "*reverse engineer*" them, and try to figure out what Game Pillars they had in mind when choosing the **core elements and goals** that would define the game's **experience**. Or if you're making a game yourself, stablish the foundations it needs for a clear **Creative Direction**.
@@ -104,14 +102,14 @@ And on a different publication, [The 13 Basic Principles of Gameplay Design](htt
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Super_Mario.jpg" width="645"/>
 </p>
-*The core loop of Super Mario games is to move and jump. That alone felt satisfying and fun when testing, enough to expand on that idea and create the legendary franchise we know today.*
+*The core loop of Super Mario games is to move and jump. That alone was tested until it was satisfying and fun, enough to expand on that idea and create the legendary franchise we know today.*
 
 If you're looking for more information, I highly recommend the article *[How to Perfect Your Game's Core Loop](https://gameanalytics.com/blog/how-to-perfect-your-games-core-loop.html)*, which goes a lot more deeper into the topic, and take a look at [Prototyping Tips](https://www.gamasutra.com/view/news/303789/Slime_Rancher_dev_shares_tips_for_making_the_most_of_the_prototyping_stage.php) from [Slime Rancher](http://slimerancher.com/)'s lead developer [Nick Popovich](https://twitter.com/NickPopovich) if you're interested in more details about the importance of iterating your game.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Slime_Rancher.png" width="645"/>
 </p>
-*"Other systems in a game are fantastic at diverting you from what’s important, so make sure what ever is the most important thing is shining before you leave the prototype stage."*
+*"Other systems in a game are fantastic at diverting you from what’s important, so make sure what ever is the most important thing is shining before you leave the prototype stage." -Nick Popovich*
 
 ### 4. Communicate With Your Team: Set Your Goals and Limits
 * The core elements of the game must be **understood and acknowledged** by the team to hold a common creative ground.
