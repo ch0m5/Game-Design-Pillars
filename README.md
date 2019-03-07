@@ -27,7 +27,9 @@ As Antoine Sarrazin explains in his article *[Illtide Post-Mortem: How not to ma
 
 1. **Limits**: Not stablishing clear limits results in way **too many features and ideas** that make the final game almost impossible to achieve on a realistic deadline. See [Feature Creep](https://en.wikipedia.org/wiki/Feature_creep). Focus on what's **essential** for your game to deliver the **wanted experience** and maybe have some other details planned if by any chance there was extra time to implement them. 
 
-2. **Creative Direction**: The entire design team must be on the same page and have a **clear idea of the creative direction of the project**, what goals is it trying to achieve, otherwise each developer will have a different mental image of the game that will be reflected on his work, and when everything is put together **it will not be cohesive**. If a consensus is not reached on a certain time threshold, have a designated member that will make the final decision. **Choose who is going to choose.**
+2. **Creative Direction**: The entire design team must be on the same page and have a **clear idea of the creative direction of the project**, what goals is it trying to achieve, otherwise each developer will have a different mental image of the game that will be reflected on his work, and when everything is put together **it will not be cohesive**.
+
+If a consensus is not reached on a certain time threshold, have a designated member that will make the final decision. **Choose who is going to choose.**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Illtide.JPG" width="645"/>
