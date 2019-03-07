@@ -36,7 +36,7 @@ If a consensus is not reached on a certain time threshold, have a designated mem
 </p>
 *"When you don’t have any creative direction, or even worse, if your team does not agree on a single concept or direction, it becomes a mess. Everyone just starts making stuff on their own and following their own direction."*
 
-To recapitulate, establishing **Game Pillars** and following them can prevent mishaps during **production** by setting the foundations of the entire game in **pre-production**. Therefore, all ideas, concepts, and design choices are processed and consolidated before starting to invest **time and budget**, a point where mistakes can severely hurt the development process.
+From a development perspective: Establishing **Game Pillars** and following them can prevent mishaps during **production** by setting the foundations of the entire game in **pre-production**. Therefore, all ideas, concepts, and design choices are processed and consolidated before starting to invest **time and budget**, a point where mistakes can severely hurt the development process.
 
 ## Good and Bad Game Pillars
 A good Game Pillar complies with the elements stated before: it marks a clear **Creative Direction** for the team, establishes **goals** for the game, states what **core elements** should be featured, and defines an **experience** for the player and the **feelings** it wants to transmit. This guidelines will be followed by the entire development team so every aspect of the game works in **unison** towards the desired result.
@@ -46,7 +46,7 @@ On the other hand, a bad Game Pillar is **too broad or obvious** and **doesn't c
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Borderlands.jpg" width="645"/>
 </p>
-*A Bordelands 2 Game Pillar is easily **massive amounts of loot and rewards**. The developers wanted the player to be showered with items so he could compare them, pick his favorites, and change his equipment often to have a sense of improvement and progress.*
+*A Bordelands 2 Game Pillar is easily **massive amounts of loot and rewards**. The developers wanted the player to be showered with items so he could compare them, pick his favorites, and change his equipment often to have a feeling of improvement and progress.*
 
 ## Your Turn
 Analyze games you've played from a designer perspective, "*reverse engineer*" them, and try to figure out what Game Pillars they had in mind when choosing the **core elements and goals** that would define the game's **experience**. Or if you're making a game yourself, stablish the foundations it needs for a clear **Creative Direction**.
