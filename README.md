@@ -159,7 +159,7 @@ If you're looking for more information, I highly recommend the article *[How to 
 ### 8. Make a Game You're Proud Of
 * Seems obvious, but **making a game that you would enjoy playing** is essential to put the needed work into it. Your hands are an engine, your game a goal, and **passion** your fuel.
 * Think of the project as a **reflection of your skills**, what heights are you capable to achieve.
-* **Commit** to the concept, the ideas, and the desired experience. Don't lower your standards unless you are forced to, but also try to be **realistic** about what you think you are able to achieve.
+* **Commit** to the concept, the ideas, and the desired experience. Setting goals you are confident to achieve will prevent you from lowering your standards and cutting parts from the game.
 * Putting your soul into a game gives it one of it's own and **pushes your limits further to make it work**.
 
 ## Conclusions and Personal Thoughts
