@@ -63,6 +63,8 @@ On the other hand, a bad Game Pillar is **too broad or obvious** and **doesn't c
 ## Your turn
 Analyze games you've played from a designer perspective, "*reverse engineer*" them, and try to figure out what Game Pillars they had in mind when choosing the **core elements and goals** that would define the game's **experience**. Or if you're making a game yourself, stablish the foundations it needs for a clear **Creative Direction**.
 
+---
+
 # A Pocket Guide to Game Design
 In this part of the research I intend to **compress** the **most basic principles of game design** I've been able to find into a short, handy guide which any starting designer should be able to apply to his creative process of any game. Maybe not as specific or extensive as many of the other existent guides, but as a **starting point** that's **accesible and easy to understand** for anyone interested in the topic.
 
