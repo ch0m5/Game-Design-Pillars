@@ -6,7 +6,7 @@
 ## Index
 * [Introduction](https://ch0m5.github.io/Game-Design-Pillars/#introduction)
 * [Game Pillars](https://ch0m5.github.io/Game-Design-Pillars/#game-pillars)
-  * [Why do we need them?](https://ch0m5.github.io/Game-Design-Pillars/#why-do-we-need-them-?)
+  * [Why do we need them?](https://ch0m5.github.io/Game-Design-Pillars/#why-do-we-need-them)
   * [Good and Bad Game Pillars](https://ch0m5.github.io/Game-Design-Pillars/#good-and-bad-game-pillars)
   * [Your turn](https://ch0m5.github.io/Game-Design-Pillars/#your-turn)
 * [A Pocket Guide to Game Design](https://ch0m5.github.io/Game-Design-Pillars/#a-pocket-guide-to-game-design)
