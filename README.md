@@ -4,15 +4,17 @@
 "I am [Carles Homs](https://www.linkedin.com/in/ch0m5/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu)."
 
 ## Index
-* [Introduction](https://github.com/ch0m5/Game-Design-Pillars/tree/gh-pages#introduction)
-* [Game Pillars](https://github.com/ch0m5/Game-Design-Pillars/tree/gh-pages#game-pillars)
-  * [Why do we need them?](https://github.com/ch0m5/Game-Design-Pillars/tree/gh-pages#why-do-we-need-them-?)
-  * [Good and Bad Game Pillars](https://github.com/ch0m5/Game-Design-Pillars/tree/gh-pages#good-and-bad-game-pillars)
-  * [Your turn](https://github.com/ch0m5/Game-Design-Pillars/tree/gh-pages#your-turn)
-* [A Pocket Guide to Game Design](https://github.com/ch0m5/Game-Design-Pillars/tree/gh-pages#a-pocket-guide-to-game-design)
-  * [The Basics of Game Design](https://github.com/ch0m5/Game-Design-Pillars/tree/gh-pages#the-basics-of-game-design)
-  * [The Guide](https://github.com/ch0m5/Game-Design-Pillars/tree/gh-pages#the-guide)
-    
+* [Introduction](https://ch0m5.github.io/Game-Design-Pillars/#introduction)
+* [Game Pillars](https://ch0m5.github.io/Game-Design-Pillars/#game-pillars)
+  * [Why do we need them?](https://ch0m5.github.io/Game-Design-Pillars/#why-do-we-need-them-?)
+  * [Good and Bad Game Pillars](https://ch0m5.github.io/Game-Design-Pillars/#good-and-bad-game-pillars)
+  * [Your turn](https://ch0m5.github.io/Game-Design-Pillars/#your-turn)
+* [A Pocket Guide to Game Design](https://ch0m5.github.io/Game-Design-Pillars/#a-pocket-guide-to-game-design)
+  * [The Basics of Game Design](https://ch0m5.github.io/Game-Design-Pillars/#the-basics-of-game-design)
+  * [The Guide](https://ch0m5.github.io/Game-Design-Pillars/#the-guide)
+
+---
+
 ## Introduction
 In this research article I'll be talking about two topics. On one hand, the concept of ***Game Pillars*** and their part in the foundations of a game’s design. On the other, some simple principles to follow during the design and development of any videogame, that I've titled ***A Pocket Guide to Game Design***. Both work as a set of guidelines to follow when designing a game. However, **Game Pillars** are something each developer must make for their game, while the guide is something I compiled after researching about design dos and don'ts and can be used regardless of the game where they are applied.
 
