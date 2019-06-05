@@ -149,7 +149,7 @@ If you're looking for more information, I highly recommend the article *[How to 
 *Halo showcases different kinds of enemies, each with a very distinctive look and consistent behavior. This allows the player to quickly identify a type of enemy, learn its move and attack patterns, and create tactics around it.*
 
 ### 6. Guide the Player: Make it Intuitive without being Obvious
-* **Guide** the player through the experience, but **don't hold its hand**, let him explore his options without getting lost.
+* **Guide** the player through the experience, but **don't hold his hand**, let him explore his options without getting lost.
 * Make mechanics **intuitive and easy to learn**. Use **aesthetic and thematic as a channel to teach mechanics**.
 * Give **feedback** to the player for his actions, **reinforce** wanted behaviors and **discourage** unwanted ones with care, **you don't want to railroad the player** but certainly limit the options to the desired game experience.
 * Provide a **general goal** for the game with **smaller short-term goals** to keep him **engaged and satisfied**.
