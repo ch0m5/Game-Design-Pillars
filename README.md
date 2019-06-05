@@ -160,7 +160,7 @@ If you're looking for more information, I highly recommend the article *[How to 
 *This video by **Game Maker's Toolkit** explains different concepts beautifully that directly relate to player guidance.*
 
 ### 7. Let the Player Play
-* Let him **explore**, **decide**, and **learn** from his choices**.
+* Let him **explore**, **decide**, and **learn** from his choices.
 * Give him tools and an environment to experiment with, which gives the game **depth** and can result in **emergent gameplay**.
 * Use **gameplay as a channel** to transmit the experience. Include the player's actions into the context of the situation so he feels as **his decisions have meaning**, affecting and shaping the world around him.
 * Whenever a new element appears for the player to learn, create a **challenge** to test his abilities and knowledge about it.
