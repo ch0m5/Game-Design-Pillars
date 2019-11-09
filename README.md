@@ -16,9 +16,9 @@
 ---
 
 ## Introduction
-In this research article I'll be talking about two topics. On one hand, the concept of ***Game Pillars*** and their part in the foundations of a game’s design. On the other, some simple principles to follow during the design and development of any videogame, that I've titled ***A Pocket Guide to Game Design***. Both work as a set of guidelines to follow when designing a game. However, **Game Pillars** are something each developer must make for their game, while the guide is something I compiled after researching about design dos and don'ts and can be used regardless of the game where they are applied.
+In this research article I'll be talking about two topics. On one hand, the concept of ***Game Pillars*** and their part in the foundations of a game’s design. On the other, some simple principles to follow during the design and development of any videogame, that I've titled ***A Pocket Guide to Game Design***. Both work as a set of guidelines to follow when designing a game. However, **Game Pillars** are something each developer must make for their game, while the guide is my research compiled into simple dos and don'ts of game design.
 
-This research was originally intended to address only **Game Pillars**. However, I misunderstood the concept and ended up focusing on other, more general guidelines which I now compiled and transformed into a small reference article. When I realized my mistake I decided to address both topics as they serve a similar purpose but aren’t the same concepts, and I think that talking about both can be really helpful and serve as a reference for new designers trying to start their own projects.
+This research was originally intended to address only **Game Pillars**. However, I misunderstood the concept and ended up focusing on other, more general guidelines which I now compiled and transformed into a small reference article. When I realized my mistake I decided to address both topics as they serve a similar purpose but aren’t the same concepts, and I think that talking about both can be really helpful for new designers trying to start their own projects.
 
 # Game Pillars
 [Max Pears](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php), Level Designer at [CD Projekt Red](https://en.cdprojektred.com/), descrives game pillars as the most **basic elements and emotions** that a game is trying to explore and make the players feel. As an example, he uses [The Last of Us](https://www.playstation.com/en-us/games/the-last-of-us-ps3/) and its focus on **narrative** and a **partner-like relationship** and [The Legend of Zelda: Breath of the Wild](https://www.zelda.com/breath-of-the-wild/) and its focus on **exploration and travel**.
@@ -66,7 +66,7 @@ Analyze games you've played from a designer perspective, "*reverse engineer*" th
 ---
 
 # A Pocket Guide to Game Design
-In this part of the research I intend to **compress** the **most basic principles of game design** I've been able to find into a short, handy guide which any starting designer should be able to apply to his creative process of any game. Maybe not as specific or extensive as many of the other existent guides, but as a **starting point** that's **accesible and easy to understand** for anyone interested in the topic.
+In this part of the research I intend to **compress** the **most basic principles of game design** I've been able to find into a short, handy guide which any starting designer should be able to apply to his creative process of any game. Maybe not as specific or extensive as many of the other existent guides, but as a **starting point** for anyone interested in the topic.
 
 I made it to tackle three main aspects: The core parts of game design that make it a **fun and engaging experience**, the **mechanisms and tools** that can be exploited to implement the design choices flawlessly, and the **work procedures** that must be followed so that the entire team is coordinated and with the same **goals** in mind.
 
@@ -78,14 +78,14 @@ Another designer, [Jesse Schell](https://www.jesseschell.com/), author of the bo
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Art_of_Game_Design.jpg" width="645"/>
 </p>
-*Schell's scheme that relates all of his design topics. A must-read for any current or future Game Designer.*
+*Schell's scheme that relates all of his design topics. A must-read for a Game Designer.*
 
 And on a different publication, [The 13 Basic Principles of Gameplay Design](https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php) by [Matt Almer](https://www.linkedin.com/in/allmer/), he creates his own version of the [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4), and many of share the same name, but they're all applied to gameplay design. This 13 principles are **specific and straight to the point**, something to always have in mind when deciding how each feature will be implemented into the game and how it will relate with others already present.
 
 ## The Guide
 ### 1. Create a Unique Experience
-* Focus on what emotions you want to transmit, how must the player **feel** while playing the game.
-* While brainstorming, think of one idea or feature that you game would have that **no other does**.
+* Focus on the emotions you want to transmit, how must the player **feel** in each moment.
+* While brainstorming, think of one feature that you game would have that **no other does**.
 * Establish the most important features of the game and a **creative direction** to follow.
 * The ideas must **resonate** with you, they must sound fun. Check if they feel like you expected them to do from a **practical standpoint** by prototyping and testing the idea.
 
@@ -96,7 +96,7 @@ And on a different publication, [The 13 Basic Principles of Gameplay Design](htt
 
 ### 2. Define Your Target Audience
 * Evaluate what demographic is your game targeted to. **Who** will play your game?
-* What is he **familiar** with? What needs to be **explained**? What is assumed to be **already known**?
+* What is he **familiar** with? What needs to be **explained**? What is assumed to be **known**?
 * What **skill level should** the game be prepared for? It must be **challenging**, without becoming frustrating nor boring (difficulty flow).
 * What theme and aesthetics are best to **appeal** the player's interest? To make your mechanics intuitive and **easy to interiorize**?
 
@@ -106,8 +106,8 @@ And on a different publication, [The 13 Basic Principles of Gameplay Design](htt
 *Arma 3 is a **Military Simulator** that acknowledges their target audience as players looking for a realistic hardcore military shooter experience. This is reflected in its design, for example in the knowledge and skill level expected from the player.*
 
 ### 3. The Core Loop Must Be Inherently Fun
-* The series of activities that will be repeated throughout the game must be **fun and satisfying to perform**.
-* **Create prototypes** around design ideas and **test them** to see if they work on a **practical level**.
+* The most basic actions that will be repeated throughout the game must be **fun and satisfying to perform**.
+* **Create prototypes** around ideas and **test them** to see if they work on a **practical level**.
 * **Iterate** prototypes over and over until the loop is **solid and polished** so the experience feels like the desired one.
 * Each iteration must **answer** a fundamental question and evaluate the combination of all currently present elements.
 * Great short guideline: The game should be **Easy to Learn and FUN to Master**.
@@ -115,7 +115,7 @@ And on a different publication, [The 13 Basic Principles of Gameplay Design](htt
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Super_Mario.jpg" width="645"/>
 </p>
-*The core loop of Super Mario games is to move and jump. That alone was tested until it was satisfying and fun, enough to expand on that idea and create the legendary franchise we know today.*
+*The core loop of Super Mario games is to move and jump. That alone was tested until it felt satisfying, and expanded to create the legendary franchise we know today.*
 
 If you're looking for more information, I highly recommend the article *[How to Perfect Your Game's Core Loop](https://gameanalytics.com/blog/how-to-perfect-your-games-core-loop.html)*, which goes a lot more deeper into the topic, and take a look at [Prototyping Tips](https://www.gamasutra.com/view/news/303789/Slime_Rancher_dev_shares_tips_for_making_the_most_of_the_prototyping_stage.php) from [Slime Rancher](http://slimerancher.com/)'s lead developer [Nick Popovich](https://twitter.com/NickPopovich) if you're interested in more details about the importance of iterating your game.
 
@@ -126,8 +126,8 @@ If you're looking for more information, I highly recommend the article *[How to 
 
 ### 4. Communicate With Your Team: Set Your Goals and Limits
 * The core elements of the game must be **understood and acknowledged** by the team to hold a common creative ground.
-* Use the GDD to define the **core experience** of the game, **desired goals**, and any important specifications that feel relevant to the game's design to work as a basic reference for the team.
-* Establish the objectives, stages, limitations, deadlines, and any other **elements that will affect your schedule**, a game must release at some point and it must be finished by then. **Being prepared for unexpected issues will lessen the damage they do.**
+* Use the GDD to define the **core experience** of the game, **desired goals**, and any important specifications that feel relevant to the game's design to work as a basic reference for the team. **Simple is Better**: the more extensive it becomes the more annoying it gets to update while iterating.
+* Establish the objectives, stages, limitations, milestones, and any other **elements that will affect your schedule**.Your game is a product, it must be sold and has a deadline like any other. **Being prepared for unexpected issues will lessen the damage they do.**
 * Set your goals and limits on the **pre-production** phase. Any unplanned changes made in the middle of production will cost money and time, so having a **solid game concept** before entering it is crucial.
 * **Share feedback** constantly, even in informal environments, the team must work at unison.
 * **All game elements must work towards the same goals in an harmonic fashion.** They must all coordinate to deliver the wanted experience, even if they are managed by different people on the team.
@@ -152,8 +152,8 @@ If you're looking for more information, I highly recommend the article *[How to 
 * **Guide** the player through the experience, but **don't hold his hand**, let him explore his options without getting lost.
 * Make mechanics **intuitive and easy to learn**. Use **aesthetic and thematic as a channel to teach mechanics**.
 * Give **feedback** to the player for his actions, **reinforce** wanted behaviors and **discourage** unwanted ones with care, **you don't want to railroad the player** but certainly limit the options to the desired game experience.
-* Provide a **general goal** for the game with **smaller short-term goals** to keep him **engaged and satisfied**.
-* Give the player **meaningful rewards** proportionate to the **difficulty** of the challenges he overcomes.
+* Provide a **general goal** for the game with **smaller short-term goals** to keep him **engaged**.
+* Give the player **meaningful rewards** proportionate to the **difficulty** of the challenges.
 * **Don't overload the player.** Keep things **simple**, not **too many outputs** at the same time, and exploit the different **channels** available (visuals, gameplay, sound) to pass your message through **smoothly**.
 
 <iframe width="645" height="520" src="https://www.youtube.com/embed/7L8vAGGitr8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
