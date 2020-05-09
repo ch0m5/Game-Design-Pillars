@@ -53,7 +53,7 @@ From a development perspective: Establishing **Game Pillars** and following them
 ## Good and Bad Game Pillars
 A good Game Pillar complies with the elements stated before: it marks a clear **Creative Direction** for the team, establishes **goals** for the game, states what **core elements** should be featured, and defines an **experience** for the player and the **feelings** it wants to transmit. This guidelines will be followed by the entire development team so every aspect of the game works in **unison** towards the desired result.
 
-On the other hand, a bad Game Pillar is **too broad or obvious** and **doesn't comply with these requirements**. For example, saying that the player must have fun or be rewarded when he acomplishes an in-game goal is not useful not specific, while pushing further and stating that your game will have a focus on **high-risk options with correspondant big rewards** can aim towards a more extreme experience for the player, where the **tension** is a wanted emotion and **risk** a key game element.
+On the other hand, a bad Game Pillar is **too broad or obvious** and **doesn't comply with these requirements**. For example, saying that the player must have fun or be rewarded when he acomplishes an in-game goal is neither useful nor specific, while pushing further and stating that your game will have a focus on **high-risk options with correspondant big rewards** can aim towards a more extreme experience for the player, where the **tension** is a wanted emotion and **risk** a key game element.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ch0m5/Game-Design-Pillars/master/docs/Borderlands.jpg" width="645"/>
